@@ -3,7 +3,6 @@
   <Document>
     <name>The moving camera</name>
     <description>Moves on map</description>
-
     <Style id="redLine">
       <LineStyle>
         <color>ff0000ff</color>

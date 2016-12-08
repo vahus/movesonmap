@@ -21,20 +21,7 @@
 			</coordinates>
 		</LineString>
 	</Placemark>
-	<Placemark>
-	<styleUrl>#drive</styleUrl>
-		<visibility>1</visibility>
-		<LineString>
-			<tessellate>1</tessellate>
-			<coordinates>
-				-73.911280,40.697382,0 
-				-73.911302,40.697430,0 
-				-73.911286,40.697383,0 
-				-73.911321,40.697340,0 
-				-73.911329,40.697389,0 
-			</coordinates>
-		</LineString>
-	</Placemark>
+	
 	<Placemark>
 	<styleUrl>#drive</styleUrl>
 		<visibility>1</visibility>

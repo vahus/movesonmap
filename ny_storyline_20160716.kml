@@ -1,0 +1,431 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>storyline_20160716.kmz</name>
+	<open>1</open>
+	<Style id="activity_transport">
+		<IconStyle>
+			<scale>0</scale>
+			<heading>0</heading>
+			<Icon>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>dfffaa00</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<Style id="activity_transport0">
+		<IconStyle>
+			<scale>0</scale>
+			<heading>0</heading>
+			<Icon>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>dfffaa00</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<Style id="activity_transport1">
+		<IconStyle>
+			<scale>0</scale>
+			<heading>0</heading>
+			<Icon>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>dfffaa00</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<Style id="activity_transport2">
+		<IconStyle>
+			<scale>0</scale>
+			<heading>0</heading>
+			<Icon>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>dfffaa00</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="activity_transport3">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#activity_transport1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#activity_transport2</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="activity_transport4">
+		<IconStyle>
+			<scale>0</scale>
+			<heading>0</heading>
+			<Icon>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>dfffaa00</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<Style id="activity_transport5">
+		<IconStyle>
+			<scale>0</scale>
+			<heading>0</heading>
+			<Icon>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>dfffaa00</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<Style id="activity_transport6">
+		<IconStyle>
+			<scale>0</scale>
+			<heading>0</heading>
+			<Icon>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>dfffaa00</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="activity_transport7">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#activity_transport17</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#activity_transport11</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="activity_transport8">
+		<IconStyle>
+			<scale>0</scale>
+			<heading>0</heading>
+			<Icon>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>dfffaa00</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="activity_transport9">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#activity_transport15</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#activity_transport5</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="activity_transport10">
+		<IconStyle>
+			<scale>0</scale>
+			<heading>0</heading>
+			<Icon>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>dfffaa00</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<Style id="activity_transport11">
+		<IconStyle>
+			<scale>0</scale>
+			<heading>0</heading>
+			<Icon>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>dfffaa00</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="activity_transport12">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#activity_transport6</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#activity_transport13</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="activity_transport13">
+		<IconStyle>
+			<scale>0</scale>
+			<heading>0</heading>
+			<Icon>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>dfffaa00</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="activity_transport14">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#activity_transport</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#activity_transport10</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="activity_transport15">
+		<IconStyle>
+			<scale>0</scale>
+			<heading>0</heading>
+			<Icon>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>dfffaa00</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="activity_transport16">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#activity_transport0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#activity_transport8</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="activity_transport17">
+		<IconStyle>
+			<scale>0</scale>
+			<heading>0</heading>
+			<Icon>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>dfffaa00</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<Style id="activity_transport18">
+		<IconStyle>
+			<scale>0</scale>
+			<heading>0</heading>
+			<Icon>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>dfffaa00</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="activity_transport19">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#activity_transport4</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#activity_transport18</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Folder>
+		<name>7/14/16</name>
+		<open>1</open>
+		<Placemark id="1468470190000">
+			<name>Moves in New York 7/16/16</name>
+			<TimeSpan>
+				<begin>2016-07-14T00:23:10-04:00</begin>
+				<end>2016-07-14T00:28:46-04:00</end>
+			</TimeSpan>
+			<styleUrl>#activity_transport19</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-73.911968,40.699905,0 -73.911669,40.699769,0 -73.91140799999999,40.699679,0 -73.911389,40.699554,0 -73.911422,40.699314,0 -73.91146000000001,40.698947,0 -73.911642,40.698836,0 -73.911614,40.698779,0 -73.911435,40.698627,0 -73.91124600000001,40.698406,0 -73.91134099999999,40.698115,0 -73.911485,40.697958,0 -73.911664,40.697825,0 -73.91181,40.697819,0 -73.911885,40.697842,0 -73.91219100000001,40.698106,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark id="1468513542000">
+			<name>Moves in New York 7/16/16</name>
+			<TimeSpan>
+				<begin>2016-07-14T12:25:42-04:00</begin>
+				<end>2016-07-14T12:30:46-04:00</end>
+			</TimeSpan>
+			<styleUrl>#activity_transport16</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-73.91219100000001,40.698106,0 -73.91200499999999,40.697927,0 -73.911993,40.697896,0 -73.911686,40.698014,0 -73.911371,40.698135,0 -73.91126,40.698278,0 -73.911312,40.698557,0 -73.911506,40.698969,0 -73.911423,40.699496,0 -73.911483,40.699713,0 -73.911664,40.69974,0 -73.912262,40.700097,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark id="1468513846000">
+			<name>Moves in New York 7/16/16</name>
+			<TimeSpan>
+				<begin>2016-07-14T12:30:46-04:00</begin>
+				<end>2016-07-14T13:03:48-04:00</end>
+			</TimeSpan>
+			<styleUrl>#activity_transport3</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-73.912262,40.700097,0 -73.94449,40.714664,0 -73.94464499999999,40.714693,0 -73.94484199999999,40.714727,0 -73.95631899999999,40.716994,0 -73.956954,40.717317,0 -73.957233,40.717496,0 -73.95735999999999,40.717573,0 -73.957402,40.717596,0 -73.957548,40.717694,0 -73.985703,40.739125,0 -73.986441,40.740083,0 -73.986334,40.740195,0 -73.98638200000001,40.740132,0 -73.984244,40.743037,0 -73.98402900000001,40.743359,0 -73.98395600000001,40.743446,0 -73.98228400000001,40.745714,0 -73.98182,40.746515,0 -73.981776,40.746577,0 -73.976,40.752107,0 -73.976022,40.752092,0 -73.976005,40.752078,0 -73.976005,40.752078,0 -73.975984,40.752061,0 -73.975882,40.751977,0 -73.97576100000001,40.751941,0 -73.97187200000001,40.757115,0 -73.97161,40.757462,0 -73.971673,40.75738,0 -73.968304,40.762283,0 -73.967906,40.762763,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark id="1468515828000">
+			<name>Moves in New York 7/16/16</name>
+			<TimeSpan>
+				<begin>2016-07-14T13:03:48-04:00</begin>
+				<end>2016-07-14T13:10:23-04:00</end>
+			</TimeSpan>
+			<styleUrl>#activity_transport14</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-73.967906,40.762763,0 -73.96784599999999,40.7628,0 -73.967665,40.762975,0 -73.967482,40.763206,0 -73.967263,40.763485,0 -73.966894,40.764005,0 -73.966537,40.764486,0 -73.966376,40.764745,0 -73.96614,40.764835,0 -73.966081,40.76509,0 -73.96601200000001,40.765177,0 -73.965997,40.765233,0 -73.965994,40.765301,0 -73.966105,40.765269,0 -73.966151,40.765242,0 -73.966173,40.765215,0 -73.96612,40.765263,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark id="1468547269000">
+			<name>Moves in New York 7/16/16</name>
+			<TimeSpan>
+				<begin>2016-07-14T21:47:49-04:00</begin>
+				<end>2016-07-14T22:17:21-04:00</end>
+			</TimeSpan>
+			<styleUrl>#activity_transport7</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-73.966893,40.765786,0 -73.96623700000001,40.764821,0 -73.966762,40.764168,0 -73.967223,40.763493,0 -73.96774000000001,40.762747,0 -73.96739,40.762106,0 -73.96681,40.761798,0 -73.966133,40.761316,0 -73.96605200000001,40.761217,0 -73.96498800000001,40.760789,0 -73.96455899999999,40.760526,0 -73.964816,40.76009,0 -73.96490799999999,40.759973,0 -73.965204,40.759338,0 -73.964873,40.759116,0 -73.963312,40.760461,0 -73.961519,40.759726,0 -73.957988,40.758297,0 -73.953861,40.756477,0 -73.948703,40.754255,0 -73.945251,40.752703,0 -73.94299100000001,40.751609,0 -73.94258600000001,40.749892,0 -73.941036,40.748143,0 -73.940089,40.746006,0 -73.939515,40.745577,0 -73.937636,40.745195,0 -73.937602,40.743517,0 -73.937607,40.743507,0 -73.937607,40.743507,0 -73.937637,40.743455,0 -73.937884,40.742259,0 -73.93816800000001,40.740828,0 -73.93858400000001,40.738587,0 -73.938591,40.738542,0 -73.93793700000001,40.737362,0 -73.93684,40.73578,0 -73.93777400000001,40.734727,0 -73.936302,40.73257,0 -73.934693,40.73123,0 -73.933041,40.730137,0 -73.931471,40.729165,0 -73.92976899999999,40.729305,0 -73.92782099999999,40.729173,0 -73.92622400000001,40.728764,0 -73.92402300000001,40.727137,0 -73.921953,40.726435,0 -73.91948600000001,40.726114,0 -73.915342,40.724588,0 -73.91397000000001,40.722962,0 -73.912047,40.72033,0 -73.911644,40.719858,0 -73.91059,40.718763,0 -73.909525,40.717623,0 -73.90803699999999,40.71742,0 -73.907943,40.717399,0 -73.906419,40.717338,0 -73.90592599999999,40.715102,0 -73.905625,40.713932,0 -73.905503,40.713298,0 -73.906065,40.712857,0 -73.905665,40.711944,0 -73.905126,40.710651,0 -73.904011,40.708306,0 -73.904055,40.707543,0 -73.905261,40.706448,0 -73.90586999999999,40.705828,0 -73.906454,40.705245,0 -73.90755,40.704147,0 -73.90878100000001,40.702977,0 -73.91074399999999,40.701077,0 -73.911708,40.700079,0 -73.912307,40.69959,0 -73.91274,40.699039,0 -73.91277700000001,40.698088,0 -73.911107,40.69844,0 -73.911669,40.697621,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark id="1468549711000">
+			<name>Moves in New York 7/16/16</name>
+			<TimeSpan>
+				<begin>2016-07-14T22:28:31-04:00</begin>
+				<end>2016-07-14T22:33:04-04:00</end>
+			</TimeSpan>
+			<styleUrl>#activity_transport9</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-73.911669,40.697621,0 -73.91118400000001,40.698146,0 -73.910865,40.698318,0 -73.910584,40.698251,0 -73.91029399999999,40.698211,0 -73.91002,40.698176,0 -73.909761,40.698175,0 -73.909694,40.698227,0 -73.90966,40.698315,0 -73.909649,40.698389,0 -73.909629,40.698325,0 -73.909693,40.698159,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark id="1468551452000">
+			<name>Moves in New York 7/16/16</name>
+			<TimeSpan>
+				<begin>2016-07-14T22:57:32-04:00</begin>
+				<end>2016-07-14T23:01:12-04:00</end>
+			</TimeSpan>
+			<styleUrl>#activity_transport12</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-73.909693,40.698159,0 -73.910619,40.698411,0 -73.91085699999999,40.698415,0 -73.91113300000001,40.698196,0 -73.91126300000001,40.698057,0 -73.91146000000001,40.697845,0 -73.911614,40.697715,0 -73.91164000000001,40.697732,0 -73.91164000000001,40.697732,0 -73.911659,40.697744,0 -73.911694,40.69779,0 -73.911816,40.697815,0 -73.91188,40.697954,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

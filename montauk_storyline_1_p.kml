@@ -1,0 +1,600 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>montauk_storyline_1_przyklad.kml</name>
+	<Style id="place_unknown">
+		<IconStyle>
+			<heading>0</heading>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/marker_white.png</href>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ffffb302</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="place_unknown0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#place_unknown11</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#place_unknown1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_info-i">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/info-i.png</href>
+			</Icon>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ffffb302</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<Style id="place_unknown1">
+		<IconStyle>
+			<heading>0</heading>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/marker_white.png</href>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ffffb302</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<Style id="place_unknown2">
+		<IconStyle>
+			<heading>0</heading>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/marker_white.png</href>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ffffb302</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="place_unknown00">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#place_unknown17</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#place_unknown6</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_info-i">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_info-i</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_info-i</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="place_unknown10">
+		<IconStyle>
+			<heading>0</heading>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/marker_white.png</href>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ffffb302</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<Style id="place_unknown3">
+		<IconStyle>
+			<heading>0</heading>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/marker_white.png</href>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ffffb302</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_info-i">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/info-i.png</href>
+			</Icon>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ffffb302</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<Style id="place_unknown4">
+		<IconStyle>
+			<heading>0</heading>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/marker_white.png</href>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ffffb302</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<Style id="place_unknown11">
+		<IconStyle>
+			<heading>0</heading>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/marker_white.png</href>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ffffb302</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<Style id="place_unknown5">
+		<IconStyle>
+			<heading>0</heading>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/marker_white.png</href>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ffffb302</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<Style id="place_unknown6">
+		<IconStyle>
+			<heading>0</heading>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/marker_white.png</href>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ffffb302</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<Style id="place_unknown12">
+		<IconStyle>
+			<heading>0</heading>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/marker_white.png</href>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ffffb302</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<Style id="place_unknown13">
+		<IconStyle>
+			<heading>0</heading>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/marker_white.png</href>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ffffb302</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<Style id="place_unknown14">
+		<IconStyle>
+			<heading>0</heading>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/marker_white.png</href>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ffffb302</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="place_unknown01">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#place_unknown10</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#place_unknown2</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="place_unknown15">
+		<IconStyle>
+			<heading>0</heading>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/marker_white.png</href>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ffffb302</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="place_unknown02">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#place_unknown14</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#place_unknown8</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="place_unknown03">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#place_unknown15</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#place_unknown7</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="place_unknown16">
+		<IconStyle>
+			<heading>0</heading>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/marker_white.png</href>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ffffb302</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="place_unknown04">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#place_unknown19</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#place_unknown4</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="place_unknown05">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#place_unknown13</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#place_unknown5</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="place_unknown06">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#place_unknown16</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#place_unknown</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="place_unknown7">
+		<IconStyle>
+			<heading>0</heading>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/marker_white.png</href>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ffffb302</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="place_unknown07">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#place_unknown18</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#place_unknown9</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="place_unknown8">
+		<IconStyle>
+			<heading>0</heading>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/marker_white.png</href>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ffffb302</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="place_unknown08">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#place_unknown12</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#place_unknown3</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="place_unknown17">
+		<IconStyle>
+			<heading>0</heading>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/marker_white.png</href>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ffffb302</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<Style id="place_unknown18">
+		<IconStyle>
+			<heading>0</heading>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/marker_white.png</href>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ffffb302</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<Style id="place_unknown19">
+		<IconStyle>
+			<heading>0</heading>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/marker_white.png</href>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ffffb302</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<Style id="place_unknown9">
+		<IconStyle>
+			<heading>0</heading>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/marker_white.png</href>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ffffb302</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<Folder>
+		<name>5/28/16</name>
+		<open>1</open>
+		<Placemark id="1464423158000">
+			<name>Trip to Montauk</name>
+			<TimeSpan>
+				<begin>2016-05-28T04:12:38-04:00</begin>
+				<end>2016-05-28T05:34:28-04:00</end>
+			</TimeSpan>
+			<styleUrl>#place_unknown05</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-73.911669,40.697621,0 -73.909632,40.696301,0 -73.908292,40.695595,0 -73.906683,40.69463,0 -73.905073,40.693735,0 -73.903977,40.693109,0 -73.902883,40.692489,0 -73.90191,40.692968,0 -73.89994,40.693432,0 -73.897404,40.694075,0 -73.89715200000001,40.693977,0 -73.895392,40.692984,0 -73.89342600000001,40.692242,0 -73.890815,40.691438,0 -73.890396,40.68988,0 -73.89083100000001,40.688897,0 -73.888344,40.690779,0 -73.88422900000001,40.691668,0 -73.879312,40.692513,0 -73.87744600000001,40.693803,0 -73.87493000000001,40.695912,0 -73.872731,40.697256,0 -73.869694,40.69804,0 -73.868337,40.700579,0 -73.864492,40.702758,0 -73.86121300000001,40.702503,0 -73.855161,40.703789,0 -73.85221799999999,40.705458,0 -73.846441,40.707888,0 -73.842749,40.70833,0 -73.839632,40.709799,0 -73.836513,40.711319,0 -73.83116699999999,40.714227,0 -73.827049,40.715387,0 -73.821944,40.716923,0 -73.818702,40.716107,0 -73.815325,40.715793,0 -73.809431,40.71583,0 -73.80555200000001,40.715873,0 -73.80157199999999,40.716391,0 -73.797702,40.717366,0 -73.794,40.718555,0 -73.789649,40.719113,0 -73.786563,40.719556,0 -73.782449,40.719949,0 -73.779067,40.720956,0 -73.776141,40.723046,0 -73.770295,40.725143,0 -73.765295,40.726294,0 -73.76156400000001,40.725867,0 -73.75777100000001,40.725883,0 -73.754267,40.727,0 -73.75106599999999,40.728682,0 -73.748291,40.73092,0 -73.744652,40.733955,0 -73.741885,40.736326,0 -73.739665,40.738893,0 -73.736795,40.740959,0 -73.73190099999999,40.743965,0 -73.728393,40.748773,0 -73.724605,40.752831,0 -73.72187200000001,40.755577,0 -73.71951300000001,40.758307,0 -73.714412,40.759674,0 -73.71009100000001,40.759431,0 -73.70585800000001,40.75929,0 -73.701936,40.760261,0 -73.69623,40.761238,0 -73.692993,40.762771,0 -73.68854,40.76554,0 -73.69004099999999,40.765177,0 -73.6906,40.767255,0 -73.691148,40.768254,0 -73.69058699999999,40.768813,0 -73.68856200000001,40.769999,0 -73.686238,40.771358,0 -73.68216700000001,40.772296,0 -73.678555,40.772286,0 -73.67396599999999,40.773366,0 -73.670866,40.773958,0 -73.668403,40.775178,0 -73.666217,40.777183,0 -73.66098,40.779398,0 -73.658224,40.779981,0 -73.65592,40.781564,0 -73.653415,40.783391,0 -73.646908,40.784852,0 -73.641143,40.784803,0 -73.63725,40.78453,0 -73.633343,40.784376,0 -73.62683,40.783841,0 -73.622536,40.783134,0 -73.61681,40.783415,0 -73.61269900000001,40.782132,0 -73.609083,40.780297,0 -73.604866,40.779715,0 -73.60073800000001,40.780535,0 -73.59665200000001,40.782049,0 -73.592004,40.783326,0 -73.587692,40.783328,0 -73.583691,40.781821,0 -73.579904,40.779808,0 -73.57537600000001,40.778877,0 -73.57086700000001,40.779534,0 -73.56651700000001,40.780481,0 -73.55981300000001,40.781926,0 -73.555511,40.78281,0 -73.55104400000001,40.783165,0 -73.54627600000001,40.783384,0 -73.541667,40.783796,0 -73.537072,40.784495,0 -73.528795,40.7864,0 -73.52480199999999,40.78776,0 -73.517971,40.791759,0 -73.514112,40.793692,0 -73.506297,40.796488,0 -73.501156,40.797981,0 -73.49683,40.798764,0 -73.49234199999999,40.799261,0 -73.486665,40.799402,0 -73.482187,40.799022,0 -73.47771299999999,40.798246,0 -73.473636,40.79729,0 -73.468422,40.795482,0 -73.462853,40.793158,0 -73.456468,40.789796,0 -73.45197,40.787519,0 -73.447833,40.78606,0 -73.442223,40.784652,0 -73.434421,40.782678,0 -73.429846,40.781635,0 -73.425145,40.781018,0 -73.420534,40.7808,0 -73.415688,40.780937,0 -73.411061,40.78154,0 -73.404419,40.782929,0 -73.39940300000001,40.784004,0 -73.395225,40.784886,0 -73.387444,40.786581,0 -73.383206,40.787218,0 -73.379176,40.787746,0 -73.37532,40.78833,0 -73.37128300000001,40.789262,0 -73.367496,40.790309,0 -73.367493,40.790309,0 -73.36614,40.790683,0 -73.36165,40.791818,0 -73.357507,40.792716,0 -73.352673,40.793748,0 -73.34779399999999,40.795096,0 -73.34383699999999,40.796637,0 -73.33677299999999,40.799754,0 -73.332871,40.801206,0 -73.324375,40.802836,0 -73.319779,40.803152,0 -73.31502500000001,40.803526,0 -73.310608,40.803849,0 -73.30613200000001,40.804111,0 -73.30160100000001,40.804282,0 -73.296882,40.804464,0 -73.292177,40.804652,0 -73.28537900000001,40.804796,0 -73.281245,40.804816,0 -73.277029,40.804766,0 -73.27268599999999,40.80475,0 -73.268255,40.804686,0 -73.26373700000001,40.804654,0 -73.259137,40.804811,0 -73.254572,40.805102,0 -73.247074,40.805582,0 -73.24274200000001,40.805896,0 -73.238145,40.806239,0 -73.23351,40.806797,0 -73.229033,40.807422,0 -73.221791,40.808433,0 -73.21727,40.80886,0 -73.21190900000001,40.809119,0 -73.207568,40.80915,0 -73.203082,40.809116,0 -73.198601,40.809075,0 -73.194124,40.809035,0 -73.18950599999999,40.809009,0 -73.18454300000001,40.808943,0 -73.17553700000001,40.808839,0 -73.17082600000001,40.808814,0 -73.166067,40.808829,0 -73.161278,40.809043,0 -73.156605,40.809491,0 -73.151956,40.810054,0 -73.14661099999999,40.810712,0 -73.13863600000001,40.811688,0 -73.134233,40.811985,0 -73.128361,40.81219,0 -73.123842,40.812318,0 -73.116451,40.812717,0 -73.112033,40.813121,0 -73.107592,40.813541,0 -73.102991,40.813965,0 -73.09698400000001,40.814507,0 -73.09255400000001,40.814912,0 -73.08749899999999,40.815398,0 -73.078791,40.816207,0 -73.070441,40.817442,0 -73.06222699999999,40.818736,0 -73.057717,40.81946,0 -73.049367,40.820782,0 -73.044906,40.821342,0 -73.040598,40.821718,0 -73.036413,40.822047,0 -73.03192199999999,40.822456,0 -73.027461,40.822842,0 -73.02288900000001,40.823191,0 -73.014178,40.823499,0 -73.009591,40.823569,0 -73.00426,40.823678,0 -72.99948999999999,40.823688,0 -72.99480699999999,40.823578,0 -72.989915,40.82313,0 -72.985299,40.822643,0 -72.98054500000001,40.82216,0 -72.975692,40.821978,0 -72.971086,40.822443,0 -72.966651,40.823279,0 -72.96220099999999,40.824211,0 -72.957475,40.825201,0 -72.952733,40.8262,0 -72.947338,40.827173,0 -72.94272700000001,40.827917,0 -72.937375,40.828771,0 -72.933185,40.829461,0 -72.928834,40.830161,0 -72.92425900000001,40.83094,0 -72.918021,40.831933,0 -72.913791,40.832923,0 -72.906408,40.835476,0 -72.902343,40.837462,0 -72.898957,40.839264,0 -72.895515,40.841112,0 -72.89156300000001,40.843231,0 -72.884916,40.8467,0 -72.880785,40.848309,0 -72.876344,40.849553,0 -72.870599,40.850471,0 -72.866084,40.850686,0 -72.861805,40.850857,0 -72.857547,40.851033,0 -72.85288300000001,40.851588,0 -72.84774400000001,40.852772,0 -72.841954,40.854955,0 -72.83656499999999,40.857411,0 -72.830597,40.860109,0 -72.825861,40.861951,0 -72.81801900000001,40.864774,0 -72.812434,40.866946,0 -72.808457,40.868702,0 -72.805089,40.870035,0 -72.802429,40.870287,0 -72.800281,40.870654,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark id="1464428835000">
+			<name>Trip to Montauk</name>
+			<TimeSpan>
+				<begin>2016-05-28T05:47:15-04:00</begin>
+				<end>2016-05-28T06:53:10-04:00</end>
+			</TimeSpan>
+			<styleUrl>#place_unknown02</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-72.800281,40.870654,0 -72.799824,40.87045,0 -72.79959100000001,40.870745,0 -72.794247,40.868847,0 -72.78379200000001,40.865684,0 -72.757398,40.856055,0 -72.753789,40.854081,0 -72.709355,40.849334,0 -72.70519400000001,40.850452,0 -72.653145,40.866115,0 -72.64524,40.867626,0 -72.633956,40.868645,0 -72.633954,40.868645,0 -72.546691,40.876528,0 -72.542146,40.877458,0 -72.525952,40.884823,0 -72.51853800000001,40.887044,0 -72.490336,40.890739,0 -72.48576,40.891401,0 -72.480082,40.892648,0 -72.47935699999999,40.892812,0 -72.450007,40.89487,0 -72.448596,40.894423,0 -72.433606,40.891539,0 -72.429717,40.891662,0 -72.425136,40.89285,0 -72.41089100000001,40.898226,0 -72.406644,40.897853,0 -72.400801,40.896767,0 -72.39645299999999,40.896576,0 -72.391059,40.89891,0 -72.38773000000001,40.899516,0 -72.38436299999999,40.900872,0 -72.377093,40.900003,0 -72.368864,40.900457,0 -72.357846,40.906865,0 -72.355541,40.908812,0 -72.353431,40.910223,0 -72.349824,40.912257,0 -72.34836300000001,40.913592,0 -72.347234,40.915346,0 -72.344623,40.917979,0 -72.33810200000001,40.92242,0 -72.333725,40.925729,0 -72.328513,40.92797,0 -72.32593300000001,40.929046,0 -72.322576,40.930122,0 -72.31913400000001,40.93129,0 -72.312629,40.933549,0 -72.30604200000001,40.93552,0 -72.303592,40.936499,0 -72.300631,40.937842,0 -72.29588,40.938734,0 -72.29231900000001,40.93933,0 -72.28954899999999,40.939733,0 -72.285595,40.940718,0 -72.279158,40.94099,0 -72.269232,40.943604,0 -72.263142,40.944745,0 -72.259441,40.945455,0 -72.256618,40.946008,0 -72.247736,40.947503,0 -72.244576,40.948327,0 -72.240092,40.949952,0 -72.235669,40.951722,0 -72.23180000000001,40.953024,0 -72.218644,40.951107,0 -72.21456499999999,40.951958,0 -72.209294,40.954136,0 -72.205619,40.954498,0 -72.20241799999999,40.954357,0 -72.199134,40.953853,0 -72.195548,40.953392,0 -72.193541,40.954373,0 -72.19226399999999,40.956539,0 -72.189233,40.959599,0 -72.18578700000001,40.963241,0 -72.185474,40.96352,0 -72.18452499999999,40.964361,0 -72.18350599999999,40.965472,0 -72.18205399999999,40.965728,0 -72.18153,40.965797,0 -72.179475,40.9662,0 -72.177638,40.966647,0 -72.172021,40.967637,0 -72.16123399999999,40.968595,0 -72.151837,40.97197,0 -72.148944,40.972774,0 -72.142549,40.97438,0 -72.141334,40.975163,0 -72.13779100000001,40.977125,0 -72.136121,40.977833,0 -72.117026,40.977977,0 -72.11407,40.978454,0 -72.10913600000001,40.980002,0 -72.103105,40.981845,0 -72.097579,40.983416,0 -72.06482800000001,40.992956,0 -72.060549,40.994192,0 -72.055863,40.995299,0 -72.03406,41.001331,0 -72.034099,41.001331,0 -72.03659399999999,41.000853,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark id="1464433592000">
+			<name>Trip to Montauk</name>
+			<TimeSpan>
+				<begin>2016-05-28T07:06:32-04:00</begin>
+				<end>2016-05-28T07:13:37-04:00</end>
+			</TimeSpan>
+			<styleUrl>#place_unknown06</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-72.03659399999999,41.000853,0 -72.028634,41.001813,0 -72.024125,41.004474,0 -72.02058200000001,41.006023,0 -72.01889199999999,41.006634,0 -72.00709500000001,41.009354,0 -72.006221,41.009713,0 -72.00563200000001,41.009913,0 -72.006322,41.009762,0 -72.00871600000001,41.009225,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark id="1464437022000">
+			<name>Trip to Montauk</name>
+			<TimeSpan>
+				<begin>2016-05-28T08:03:42-04:00</begin>
+				<end>2016-05-28T08:24:59-04:00</end>
+			</TimeSpan>
+			<styleUrl>#place_unknown01</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-72.00871600000001,41.009225,0 -72.009933,41.008677,0 -72.010313,41.00869,0 -71.996928,41.014388,0 -71.992805,41.016131,0 -71.98967399999999,41.017229,0 -71.986698,41.017862,0 -71.983344,41.019023,0 -71.980536,41.01992,0 -71.97787,41.020913,0 -71.974249,41.02225,0 -71.970332,41.023935,0 -71.96707000000001,41.025715,0 -71.96547099999999,41.026336,0 -71.96354,41.026639,0 -71.96220700000001,41.027174,0 -71.96247,41.026975,0 -71.96381,41.026289,0 -71.963587,41.026185,0 -71.963516,41.026181,0 -71.96348399999999,41.02619,0 -71.963494,41.026193,0 -71.96389499999999,41.026382,0 -71.958573,41.028926,0 -71.958573,41.028926,0 -71.957887,41.029205,0 -71.95466500000001,41.03051,0 -71.952928,41.030967,0 -71.94914,41.031808,0 -71.947943,41.032354,0 -71.94581599999999,41.03366,0 -71.944648,41.034353,0 -71.943696,41.034984,0 -71.94429700000001,41.035295,0 -71.944765,41.036616,0 -71.94527600000001,41.038442,0 -71.946111,41.040777,0 -71.9477,41.04291,0 -71.949974,41.044136,0 -71.951249,41.045913,0 -71.95243000000001,41.048495,0 -71.952172,41.050642,0 -71.951082,41.053422,0 -71.950529,41.056489,0 -71.950188,41.059904,0 -71.948217,41.06414,0 -71.946595,41.067228,0 -71.945384,41.069366,0 -71.944408,41.070918,0 -71.94511,41.07212,0 -71.94577099999999,41.07349,0 -71.9473,41.072868,0 -71.94994800000001,41.07199,0 -71.952536,41.071974,0 -71.9534,41.072393,0 -71.953485,41.072414,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark id="1464446113000">
+			<name>Trip to Montauk</name>
+			<TimeSpan>
+				<begin>2016-05-28T10:35:13-04:00</begin>
+				<end>2016-05-28T10:37:16-04:00</end>
+			</TimeSpan>
+			<styleUrl>#place_unknown0</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-71.954915,41.071955,0 -71.954161,41.071641,0 -71.951819,41.071763,0 -71.950658,41.07187,0 -71.95077000000001,41.071852,0 -71.950721,41.071859,0 -71.950692,41.071864,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark id="1464446681000">
+			<name>Trip to Montauk</name>
+			<TimeSpan>
+				<begin>2016-05-28T10:44:41-04:00</begin>
+				<end>2016-05-28T10:59:39-04:00</end>
+			</TimeSpan>
+			<styleUrl>#place_unknown03</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-71.950692,41.071864,0 -71.95069100000001,41.071864,0 -71.95005000000001,41.071982,0 -71.948033,41.072565,0 -71.948244,41.07249,0 -71.94826500000001,41.072482,0 -71.948258,41.072485,0 -71.948256,41.072486,0 -71.948255,41.072486,0 -71.948255,41.072486,0 -71.948252,41.072487,0 -71.947065,41.072937,0 -71.94344,41.074326,0 -71.942249,41.07441,0 -71.942266,41.072288,0 -71.94085,41.070858,0 -71.94019900000001,41.069159,0 -71.938568,41.066111,0 -71.935035,41.061834,0 -71.933131,41.059117,0 -71.93140699999999,41.057271,0 -71.92956599999999,41.054968,0 -71.928867,41.051226,0 -71.928454,41.048891,0 -71.92822099999999,41.046049,0 -71.92779,41.044123,0 -71.926973,41.042653,0 -71.926761,41.042471,0 -71.924212,41.043175,0 -71.920312,41.045016,0 -71.916944,41.045688,0 -71.914517,41.046006,0 -71.911163,41.046518,0 -71.90663000000001,41.049079,0 -71.903836,41.050536,0 -71.90046599999999,41.05226,0 -71.89912800000001,41.053434,0 -71.899282,41.053279,0 -71.90094000000001,41.051997,0 -71.905265,41.049817,0 -71.906949,41.049183,0 -71.906828,41.049977,0 -71.90634300000001,41.052976,0 -71.90663000000001,41.053567,0 -71.90722100000001,41.053745,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark id="1464475162000">
+			<name>Trip to Montauk</name>
+			<TimeSpan>
+				<begin>2016-05-28T18:39:22-04:00</begin>
+				<end>2016-05-28T18:44:45-04:00</end>
+			</TimeSpan>
+			<styleUrl>#place_unknown00</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-71.90722100000001,41.053745,0 -71.90707,41.04932,0 -71.907749,41.048366,0 -71.91099800000001,41.046568,0 -71.91382299999999,41.046129,0 -71.91779200000001,41.045595,0 -71.922816,41.043608,0 -71.92584100000001,41.04273,0 -71.92869399999999,41.041621,0 -71.932779,41.040837,0 -71.93611900000001,41.040241,0 -71.938704,41.038467,0 -71.940923,41.036734,0 -71.94216900000001,41.035993,0 -71.94285000000001,41.035533,0 -71.944283,41.035208,0 -71.943763,41.034892,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark id="1464477099000">
+			<name>Trip to Montauk</name>
+			<TimeSpan>
+				<begin>2016-05-28T19:11:39-04:00</begin>
+				<end>2016-05-28T19:19:24-04:00</end>
+			</TimeSpan>
+			<styleUrl>#place_unknown07</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-71.942177,41.034691,0 -71.942202,41.034882,0 -71.942216,41.03491,0 -71.942223,41.034921,0 -71.942044,41.035036,0 -71.94170699999999,41.035027,0 -71.941378,41.03512,0 -71.941604,41.035144,0 -71.942534,41.035074,0 -71.942685,41.035184,0 -71.942651,41.035261,0 -71.942809,41.035403,0 -71.94295099999999,41.035403,0 -71.943136,41.035422,0 -71.943333,41.035431,0 -71.943535,41.035303,0 -71.94434,41.035526,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark id="1464482114000">
+			<name>Trip to Montauk</name>
+			<TimeSpan>
+				<begin>2016-05-28T20:35:14-04:00</begin>
+				<end>2016-05-28T21:17:28-04:00</end>
+			</TimeSpan>
+			<styleUrl>#place_unknown04</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-71.94379600000001,41.03522,0 -71.91108300000001,41.046541,0 -71.90863899999999,41.047648,0 -71.907217,41.048636,0 -71.906764,41.05036,0 -71.90642,41.052485,0 -71.906403,41.053542,0 -71.90694499999999,41.053626,0 -71.907032,41.053613,0 -71.906958,41.049309,0 -71.906958,41.049309,0 -71.906958,41.049309,0 -71.906958,41.049309,0 -71.907167,41.048835,0 -71.91193800000001,41.046184,0 -71.919146,41.04487,0 -71.91942,41.044783,0 -71.94277099999999,41.035618,0 -71.94336800000001,41.035284,0 -71.94419499999999,41.034701,0 -71.944757,41.03428,0 -71.945658,41.033805,0 -71.945922,41.033607,0 -71.946072,41.033511,0 -71.94621100000001,41.033463,0 -71.94674600000001,41.033228,0 -71.947292,41.032927,0 -71.947343,41.032813,0 -71.947513,41.032703,0 -71.94759000000001,41.032645,0 -71.94807299999999,41.032377,0 -71.948294,41.032261,0 -71.948295,41.032261,0 -71.94842800000001,41.032191,0 -71.948865,41.032008,0 -71.950397,41.031511,0 -71.953272,41.030984,0 -71.953982,41.030865,0 -71.955494,41.030201,0 -71.95800300000001,41.029182,0 -71.960424,41.027974,0 -71.962096,41.027164,0 -71.965566,41.026351,0 -71.96814000000001,41.02525,0 -71.972139,41.023193,0 -71.97453400000001,41.022201,0 -71.978486,41.020698,0 -71.980825,41.019871,0 -71.981403,41.019674,0 -71.98376500000001,41.018949,0 -71.987272,41.017808,0 -71.989752,41.017235,0 -71.99313100000001,41.016137,0 -71.99464999999999,41.015487,0 -71.99634500000001,41.014727,0 -71.998159,41.013917,0 -72.00012099999999,41.013079,0 -72.00280600000001,41.012489,0 -72.00351499999999,41.012254,0 -72.006799,41.010879,0 -72.009011,41.01025,0 -72.01082100000001,41.009173,0 -72.010611,41.008814,0 -72.010627,41.008775,0 -72.004807,41.010106,0 -72.00453400000001,41.010494,0 -72.00528900000001,41.010266,0 -72.006163,41.010027,0 -72.00724099999999,41.009634,0 -72.00871600000001,41.009225,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark id="1464489341000">
+			<name>Trip to Montauk</name>
+			<TimeSpan>
+				<begin>2016-05-28T22:35:41-04:00</begin>
+				<end>2016-05-28T22:49:52-04:00</end>
+			</TimeSpan>
+			<styleUrl>#place_unknown08</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-72.00998199999999,41.008903,0 -71.999004,41.013328,0 -71.99482999999999,41.01516,0 -71.993071,41.0156,0 -71.98813,41.017676,0 -71.98638099999999,41.018141,0 -71.97845700000001,41.020686,0 -71.976029,41.021614,0 -71.963658,41.026692,0 -71.959294,41.028793,0 -71.949186,41.031794,0 -71.948184,41.032269,0 -71.946795,41.033096,0 -71.945093,41.033981,0 -71.94212899999999,41.035786,0 -71.94062,41.036863,0 -71.938901,41.038474,0 -71.923123,41.04349,0 -71.91657600000001,41.045737,0 -71.913158,41.046186,0 -71.910177,41.04685,0 -71.907073,41.048864,0 -71.90664099999999,41.051108,0 -71.90722100000001,41.053745,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark id="1464490193000">
+			<name> </name>
+			<description><![CDATA[<p>Date 28 May 2015.<br/> 700 mil,<br/> 80m color photogrpahic paper exposed</p>]]></description>
+			<TimeSpan>
+				<begin>2016-05-28T22:49:54-04:00</begin>
+				<end>2016-05-28T23:59:59-04:00</end>
+			</TimeSpan>
+			<styleUrl>#msn_info-i</styleUrl>
+			<Point>
+				<coordinates>-71.80240000680058,41.08754031059542,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

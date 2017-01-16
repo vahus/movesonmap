@@ -1,0 +1,493 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Document>
+	<name>storyline_20160810.kml</name>
+	<open>1</open>
+	<description><![CDATA[<p align="center"><a href="http://www.moves-app.com"> <img src="http://www.moves-app.com/assets/moves.png"/> </a></p> <p align="center">Moves Storyline</p>]]></description>
+	<atom:link href="http://www.moves-app.com"></atom:link>
+	<Style id="activity_walking1">
+		<IconStyle>
+			<scale>0</scale>
+			<heading>0</heading>
+			<Icon>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>df5ad500</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<Style id="activity_walking0">
+		<IconStyle>
+			<scale>0</scale>
+			<heading>0</heading>
+			<Icon>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>df5ad500</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<Style id="activity_walking">
+		<IconStyle>
+			<scale>0</scale>
+			<heading>0</heading>
+			<Icon>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>df5ad500</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<Style id="activity_walking4">
+		<IconStyle>
+			<scale>0</scale>
+			<heading>0</heading>
+			<Icon>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>df5ad500</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<Style id="activity_walking3">
+		<IconStyle>
+			<scale>0</scale>
+			<heading>0</heading>
+			<Icon>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>df5ad500</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<Style id="activity_walking15">
+		<IconStyle>
+			<scale>0</scale>
+			<heading>0</heading>
+			<Icon>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>df5ad500</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<Style id="activity_walking12">
+		<IconStyle>
+			<scale>0</scale>
+			<heading>0</heading>
+			<Icon>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>df5ad500</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<Style id="activity_walking14">
+		<IconStyle>
+			<scale>0</scale>
+			<heading>0</heading>
+			<Icon>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>df5ad500</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<Style id="activity_walking13">
+		<IconStyle>
+			<scale>0</scale>
+			<heading>0</heading>
+			<Icon>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>df5ad500</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="activity_walking22">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#activity_walking12</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#activity_walking14</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="activity_walking21">
+		<IconStyle>
+			<scale>0</scale>
+			<heading>0</heading>
+			<Icon>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>df5ad500</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<Style id="activity_walking20">
+		<IconStyle>
+			<scale>0</scale>
+			<heading>0</heading>
+			<Icon>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>df5ad500</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="activity_walking7">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#activity_walking6</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#activity_walking9</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="activity_walking5">
+		<IconStyle>
+			<scale>0</scale>
+			<heading>0</heading>
+			<Icon>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>df5ad500</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="activity_walking8">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#activity_walking3</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#activity_walking</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="activity_walking6">
+		<IconStyle>
+			<scale>0</scale>
+			<heading>0</heading>
+			<Icon>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>df5ad500</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="activity_walking19">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#activity_walking15</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#activity_walking13</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="activity_walking18">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#activity_walking5</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#activity_walking1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="activity_walking17">
+		<IconStyle>
+			<scale>0</scale>
+			<heading>0</heading>
+			<Icon>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>df5ad500</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<Style id="activity_walking16">
+		<IconStyle>
+			<scale>0</scale>
+			<heading>0</heading>
+			<Icon>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>df5ad500</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="activity_walking11">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#activity_walking16</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#activity_walking20</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="activity_walking10">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#activity_walking4</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#activity_walking0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="activity_walking9">
+		<IconStyle>
+			<scale>0</scale>
+			<heading>0</heading>
+			<Icon>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>df5ad500</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="activity_walking2">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#activity_walking17</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#activity_walking21</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Folder>
+		<name>8/10/16</name>
+		<open>1</open>
+		<Placemark id="1470814393000">
+			<name>Moves in London</name>
+			<TimeSpan>
+				<begin>2016-08-10T03:33:13-04:00</begin>
+				<end>2016-08-10T03:52:53-04:00</end>
+			</TimeSpan>
+			<styleUrl>#activity_walking8</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-0.3260641,51.46391,0 -0.32540305,51.464001,0 -0.3247029,51.46402,0 -0.32422939,51.464032,0 -0.32315258,51.464021,0 -0.32329662,51.463901,0 -0.32329586,51.463688,0 -0.32330683,51.463492,0 -0.32332922,51.46319,0 -0.3233586,51.4628,0 -0.32338881,51.462371,0 -0.32341774,51.46195,0 -0.32343631,51.461663,0 -0.3234546,51.461227,0 -0.32329161,51.46112600000001,0 -0.32320321,51.461003,0 -0.32314542,51.460796,0 -0.32307394,51.460283,0 -0.32303788,51.45999,0 -0.32278978,51.458313,0 -0.32275379,51.458089,0 -0.32249366,51.456065,0 -0.32254165,51.455867,0 -0.32219414,51.455769,0 -0.3204472,51.455543,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark id="1470816226000">
+			<name>Moves in London</name>
+			<TimeSpan>
+				<begin>2016-08-10T04:03:46-04:00</begin>
+				<end>2016-08-10T04:17:17-04:00</end>
+			</TimeSpan>
+			<styleUrl>#activity_walking7</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-0.3204472,51.455543,0 -0.32028745,51.455606,0 -0.32029582,51.45547499999999,0 -0.32002724,51.45530800000001,0 -0.31768513,51.454653,0 -0.31695437,51.45464000000001,0 -0.3164093,51.45469199999999,0 -0.31276337,51.455498,0 -0.31293824,51.45566,0 -0.31291058,51.455712,0 -0.31279314,51.45577500000001,0 -0.31274058,51.455798,0 -0.31277882,51.45563,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark id="1470824490000">
+			<name>Moves in London</name>
+			<TimeSpan>
+				<begin>2016-08-10T06:21:30-04:00</begin>
+				<end>2016-08-10T06:26:58-04:00</end>
+			</TimeSpan>
+			<styleUrl>#activity_walking18</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-0.31277882,51.45563,0 -0.31288469,51.45565599999999,0 -0.31306992,51.455688,0 -0.31292088,51.455567,0 -0.31268635,51.45531799999999,0 -0.3124378,51.455034,0 -0.31203501,51.45489000000001,0 -0.31181992,51.454891,0 -0.31152575,51.45502,0 -0.31090026,51.4553,0 -0.31065756,51.4554,0 -0.31042528,51.455482,0 -0.31014929,51.455541,0 -0.31017833,51.455553,0 -0.31025462,51.45555699999999,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark id="1470826013000">
+			<name>Moves in London</name>
+			<TimeSpan>
+				<begin>2016-08-10T06:46:53-04:00</begin>
+				<end>2016-08-10T06:51:38-04:00</end>
+			</TimeSpan>
+			<styleUrl>#activity_walking19</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-0.31025462,51.45555699999999,0 -0.31059126,51.455435,0 -0.31088234,51.455314,0 -0.31131967,51.455124,0 -0.31182811,51.45493399999999,0 -0.31209141,51.454957,0 -0.31258621,51.455159,0 -0.3128542,51.45544999999999,0 -0.31292822,51.45567900000001,0 -0.31291386,51.455807,0 -0.31282552,51.455869,0 -0.31266646,51.455797,0 -0.31277882,51.45563,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark id="1470851801000">
+			<name>Moves in London</name>
+			<TimeSpan>
+				<begin>2016-08-10T13:56:41-04:00</begin>
+				<end>2016-08-10T14:24:01-04:00</end>
+			</TimeSpan>
+			<styleUrl>#activity_walking10</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-0.31277882,51.45563,0 -0.31273362,51.455652,0 -0.31272831,51.45564300000001,0 -0.31273474,51.455649,0 -0.3127351,51.45565400000001,0 -0.31271748,51.455648,0 -0.31269389,51.455647,0 -0.3126785,51.455661,0 -0.31268946,51.45566699999999,0 -0.31268947,51.45566699999999,0 -0.31269739,51.455671,0 -0.31272168,51.45567799999999,0 -0.31269732,51.455682,0 -0.31254227,51.455809,0 -0.31253782,51.455772,0 -0.31252914,51.45566,0 -0.31252518,51.4556,0 -0.31255136,51.455613,0 -0.31260103,51.455628,0 -0.31264817,51.45564199999999,0 -0.31274502,51.45567000000001,0 -0.31278959,51.455683,0 -0.3128791,51.455696,0 -0.3129858,51.455732,0 -0.31303081,51.455564,0 -0.3129144,51.455399,0 -0.31265217,51.455192,0 -0.3121854,51.454996,0 -0.31172135,51.45496099999999,0 -0.31140119,51.455089,0 -0.31108999,51.455223,0 -0.31082042,51.45533999999999,0 -0.31027678,51.455601,0 -0.31008119,51.455705,0 -0.31002377,51.455742,0 -0.30963121,51.455939,0 -0.30914873,51.456191,0 -0.30885191,51.456347,0 -0.30851452,51.456531,0 -0.3080901,51.45678300000001,0 -0.30777938,51.45696400000001,0 -0.3075013,51.45716500000001,0 -0.30723148,51.45739800000001,0 -0.3070668,51.457405,0 -0.3068371,51.457523,0 -0.3066252,51.457732,0 -0.3063452,51.457956,0 -0.30593754,51.458119,0 -0.30575612,51.45818,0 -0.30563236,51.458168,0 -0.30544897,51.458132,0 -0.30555052,51.458199,0 -0.30560896,51.458266,0 -0.30549043,51.458542,0 -0.30555352,51.45863,0 -0.30583328,51.45883500000001,0 -0.30607108,51.459197,0 -0.30609115,51.45945600000001,0 -0.30606402,51.459677,0 -0.30593103,51.459867,0 -0.30556121,51.460113,0 -0.3052443,51.460197,0 -0.30506738,51.460464,0 -0.30494357,51.460542,0 -0.30454412,51.46074099999999,0 -0.304292,51.460846,0 -0.30407402,51.460977,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark id="1470854136000">
+			<name>Moves in London</name>
+			<TimeSpan>
+				<begin>2016-08-10T14:35:36-04:00</begin>
+				<end>2016-08-10T14:46:07-04:00</end>
+			</TimeSpan>
+			<styleUrl>#activity_walking11</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-0.30407402,51.460977,0 -0.30453109,51.46089,0 -0.30473824,51.460971,0 -0.30500667,51.461045,0 -0.30560295,51.461143,0 -0.30617425,51.461257,0 -0.30648678,51.461285,0 -0.30688992,51.46128000000001,0 -0.30707957,51.461352,0 -0.3075992,51.461421,0 -0.30814287,51.461498,0 -0.30855268,51.461477,0 -0.3087916,51.461516,0 -0.30903443,51.46164000000001,0 -0.3093737,51.461782,0 -0.30996976,51.461806,0 -0.31031416,51.461727,0 -0.31058453,51.461652,0 -0.310926,51.461377,0 -0.31106944,51.461248,0 -0.31169859,51.460734,0 -0.31194876,51.460614,0 -0.31224098,51.460452,0 -0.312487,51.460237,0 -0.31239587,51.460115,0 -0.31209798,51.460023,0 -0.31164029,51.45998900000001,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark id="1470859535000">
+			<name>Moves in London</name>
+			<TimeSpan>
+				<begin>2016-08-10T16:05:35-04:00</begin>
+				<end>2016-08-10T16:23:19-04:00</end>
+			</TimeSpan>
+			<styleUrl>#activity_walking22</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-0.31164029,51.45998900000001,0 -0.31216565,51.460097,0 -0.31245765,51.460162,0 -0.31265335,51.460221,0 -0.3127974,51.460279,0 -0.31298587,51.460387,0 -0.31356457,51.46072,0 -0.31391361,51.46096100000001,0 -0.31436403,51.461324,0 -0.31446147,51.461353,0 -0.31449361,51.46136199999999,0 -0.31480013,51.461507,0 -0.31532371,51.461712,0 -0.3157802,51.461923,0 -0.31605579,51.46205,0 -0.3163535,51.46216,0 -0.31706161,51.462368,0 -0.31732639,51.46226,0 -0.31771517,51.462114,0 -0.31789203,51.462007,0 -0.31795878,51.46194200000001,0 -0.31812762,51.46204900000001,0 -0.31851607,51.46235,0 -0.31879418,51.462558,0 -0.31934025,51.462915,0 -0.31961831,51.46305,0 -0.31975848,51.463205,0 -0.31990587,51.463351,0 -0.32024951,51.463539,0 -0.32095987,51.463641,0 -0.32163465,51.463614,0 -0.32214255,51.46347800000001,0 -0.32260322,51.46343899999999,0 -0.32295605,51.463385,0 -0.32304381,51.46346700000001,0 -0.32318113,51.463576,0 -0.32325204,51.463818,0 -0.32327351,51.464296,0 -0.32328285,51.46439999999999,0 -0.32328667,51.46446400000001,0 -0.32328598,51.46449,0 -0.32384074,51.46440100000001,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark id="1470860722000">
+			<name>Moves in London</name>
+			<TimeSpan>
+				<begin>2016-08-10T16:25:22-04:00</begin>
+				<end>2016-08-10T16:28:47-04:00</end>
+			</TimeSpan>
+			<styleUrl>#activity_walking2</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-0.32384074,51.46440100000001,0 -0.32402813,51.464383,0 -0.32420083,51.46437900000001,0 -0.32453596,51.464368,0 -0.32520762,51.464273,0 -0.32551652,51.464281,0 -0.32562038,51.464405,0 -0.32589036,51.464323,0 -0.32608377,51.463997,0 -0.3260641,51.46391,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

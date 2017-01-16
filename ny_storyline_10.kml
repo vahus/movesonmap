@@ -1,0 +1,758 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Document>
+	<name>storyline_20160603.kml</name>
+	<description><![CDATA[<p align="center"><a href="http://www.moves-app.com"> <img src="http://www.moves-app.com/assets/moves.png"/> </a></p> <p align="center">Moves Storyline</p>]]></description>
+	<atom:link href="http://www.moves-app.com"></atom:link>
+	<StyleMap id="place_unknown">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#place_unknown3</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#place_unknown14</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="place_unknown0">
+		<IconStyle>
+			<Icon>
+			</Icon>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ffffaa55</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="place_unknown1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#place_unknown36</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#place_unknown5</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="place_unknown2">
+		<IconStyle>
+			<heading>0</heading>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/marker_white.png</href>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ffffaa55</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<Style id="place_unknown3">
+		<IconStyle>
+			<heading>0</heading>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/marker_white.png</href>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ffffaa55</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<Style id="place_unknown4">
+		<IconStyle>
+			<heading>0</heading>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/marker_white.png</href>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ffffaa55</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<Style id="place_unknown5">
+		<IconStyle>
+			<heading>0</heading>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/marker_white.png</href>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ffffaa55</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<Style id="place_unknown6">
+		<IconStyle>
+			<heading>0</heading>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/marker_white.png</href>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ffffaa55</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<Style id="place_unknown7">
+		<IconStyle>
+			<heading>0</heading>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/marker_white.png</href>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ffffaa55</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="place_unknown8">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#place_unknown27</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#place_unknown10</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="place_unknown9">
+		<IconStyle>
+			<heading>0</heading>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/marker_white.png</href>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ffffaa55</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<Style id="place_unknown10">
+		<IconStyle>
+			<heading>0</heading>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/marker_white.png</href>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ffffaa55</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<Style id="place_unknown11">
+		<IconStyle>
+			<heading>0</heading>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/marker_white.png</href>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ffffaa55</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<Style id="place_unknown12">
+		<IconStyle>
+			<heading>0</heading>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/marker_white.png</href>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ffffaa55</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="place_unknown13">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#place_unknown19</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#place_unknown38</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="place_unknown14">
+		<IconStyle>
+			<heading>0</heading>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/marker_white.png</href>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ffffaa55</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="place_unknown15">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#place_unknown23</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#place_unknown7</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="place_unknown16">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#place_unknown33</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#place_unknown29</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="place_unknown17">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#place_unknown40</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#place_unknown4</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="place_unknown18">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#place_unknown25</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#place_unknown9</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="place_unknown19">
+		<IconStyle>
+			<heading>0</heading>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/marker_white.png</href>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ffffaa55</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="place_unknown20">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#place_unknown0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#place_unknown35</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="place_unknown21">
+		<IconStyle>
+			<heading>0</heading>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/marker_white.png</href>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ffffaa55</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="place_unknown22">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#place_unknown28</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#place_unknown11</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="place_unknown23">
+		<IconStyle>
+			<heading>0</heading>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/marker_white.png</href>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ffffaa55</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<Style id="place_unknown24">
+		<IconStyle>
+			<heading>0</heading>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/marker_white.png</href>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ffffaa55</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<Style id="place_unknown25">
+		<IconStyle>
+			<heading>0</heading>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/marker_white.png</href>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ffffaa55</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<Style id="place_unknown26">
+		<IconStyle>
+			<heading>0</heading>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/marker_white.png</href>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ffffaa55</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<Style id="place_unknown27">
+		<IconStyle>
+			<heading>0</heading>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/marker_white.png</href>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ffffaa55</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<Style id="place_unknown28">
+		<IconStyle>
+			<heading>0</heading>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/marker_white.png</href>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ffffaa55</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<Style id="place_unknown29">
+		<IconStyle>
+			<heading>0</heading>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/marker_white.png</href>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ffffaa55</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<Style id="place_unknown30">
+		<IconStyle>
+			<heading>0</heading>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/marker_white.png</href>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ffffaa55</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="place_unknown31">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#place_unknown30</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#place_unknown37</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="place_unknown32">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#place_unknown6</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#place_unknown26</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="place_unknown33">
+		<IconStyle>
+			<heading>0</heading>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/marker_white.png</href>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ffffaa55</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="place_unknown34">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#place_unknown12</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#place_unknown24</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="place_unknown35">
+		<IconStyle>
+			<Icon>
+			</Icon>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ffffaa55</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<Style id="place_unknown36">
+		<IconStyle>
+			<heading>0</heading>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/marker_white.png</href>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ffffaa55</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<Style id="place_unknown37">
+		<IconStyle>
+			<heading>0</heading>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/marker_white.png</href>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ffffaa55</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<Style id="place_unknown38">
+		<IconStyle>
+			<heading>0</heading>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/marker_white.png</href>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ffffaa55</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="place_unknown39">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#place_unknown21</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#place_unknown2</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="place_unknown40">
+		<IconStyle>
+			<heading>0</heading>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/marker_white.png</href>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ffffaa55</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<Folder>
+		<name>6/3/16</name>
+		<Placemark id="1464961275000">
+			<name>Moves in New York 6/2/16</name>
+			<TimeSpan>
+				<begin>2016-06-03T09:41:15-04:00</begin>
+				<end>2016-06-03T10:14:36-04:00</end>
+			</TimeSpan>
+			<styleUrl>#place_unknown17</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-73.91135,40.697353,0 -73.910899,40.697021,0 -73.910431,40.696748,0 -73.91101500000001,40.695944,0 -73.911627,40.695293,0 -73.912567,40.695514,0 -73.913223,40.695867,0 -73.914714,40.696724,0 -73.915542,40.69618,0 -73.917416,40.694217,0 -73.917811,40.693853,0 -73.919271,40.692364,0 -73.91956,40.692085,0 -73.920278,40.691339,0 -73.920692,40.690909,0 -73.921482,40.690116,0 -73.92170900000001,40.689867,0 -73.921898,40.689686,0 -73.92343700000001,40.689427,0 -73.926486,40.689023,0 -73.927223,40.688941,0 -73.928851,40.688733,0 -73.930773,40.688514,0 -73.933747,40.68816,0 -73.935619,40.687953,0 -73.93772300000001,40.687721,0 -73.938457,40.687649,0 -73.93879200000001,40.687582,0 -73.938906,40.687052,0 -73.938817,40.686563,0 -73.938549,40.685298,0 -73.938255,40.683828,0 -73.938743,40.683058,0 -73.940614,40.682899,0 -73.941507,40.682725,0 -73.94311,40.682525,0 -73.945567,40.682262,0 -73.946584,40.682156,0 -73.948474,40.681925,0 -73.952184,40.681522,0 -73.953352,40.681417,0 -73.953503,40.68146,0 -73.95369700000001,40.682,0 -73.95571099999999,40.681763,0 -73.95567,40.681116,0 -73.95538999999999,40.679402,0 -73.957492,40.679673,0 -73.957942,40.679571,0 -73.957942,40.679571,0 -73.958044,40.679549,0 -73.97605900000001,40.673622,0 -73.97620600000001,40.673299,0 -73.97644200000001,40.672933,0 -73.97683000000001,40.67259,0 -73.977954,40.671294,0 -73.978082,40.671206,0 -73.978601,40.671413,0 -73.97990299999999,40.671994,0 -73.98046100000001,40.672276,0 -73.981471,40.672738,0 -73.98213699999999,40.672967,0 -73.98218,40.672983,0 -73.982474,40.673276,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark id="1464963923000">
+			<name>Moves in New York 6/2/16</name>
+			<TimeSpan>
+				<begin>2016-06-03T10:25:23-04:00</begin>
+				<end>2016-06-03T11:03:00-04:00</end>
+			</TimeSpan>
+			<styleUrl>#place_unknown15</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-73.982474,40.673276,0 -73.98273,40.673425,0 -73.984116,40.674101,0 -73.984852,40.674429,0 -73.984927,40.67448,0 -73.98486200000001,40.674896,0 -73.984484,40.675303,0 -73.98364700000001,40.676292,0 -73.983014,40.6772,0 -73.982682,40.677765,0 -73.981871,40.678935,0 -73.98076399999999,40.680616,0 -73.980161,40.681478,0 -73.980102,40.681526,0 -73.979789,40.682018,0 -73.979089,40.683012,0 -73.978437,40.684015,0 -73.977976,40.68424,0 -73.976061,40.683541,0 -73.974318,40.683179,0 -73.972416,40.682757,0 -73.970129,40.682301,0 -73.969341,40.682124,0 -73.968729,40.682011,0 -73.967305,40.681728,0 -73.966049,40.68145,0 -73.96527500000001,40.681289,0 -73.96377699999999,40.680981,0 -73.962135,40.680643,0 -73.96059800000001,40.680316,0 -73.95840699999999,40.679858,0 -73.956304,40.679434,0 -73.95496300000001,40.679141,0 -73.95468700000001,40.679083,0 -73.95435999999999,40.679029,0 -73.953349,40.678814,0 -73.95219899999999,40.678595,0 -73.951596,40.678573,0 -73.95007,40.678466,0 -73.94752,40.67829,0 -73.946382,40.678212,0 -73.94485400000001,40.678197,0 -73.944152,40.67778,0 -73.94422400000001,40.677262,0 -73.94405500000001,40.676571,0 -73.941774,40.676541,0 -73.94113900000001,40.676495,0 -73.939099,40.676345,0 -73.938025,40.67629,0 -73.936723,40.676239,0 -73.935997,40.676276,0 -73.93593799999999,40.676801,0 -73.935878,40.677346,0 -73.93522400000001,40.677577,0 -73.933443,40.677519,0 -73.93243200000001,40.677504,0 -73.930452,40.677427,0 -73.92993,40.678444,0 -73.928771,40.67955,0 -73.92868799999999,40.681275,0 -73.929138,40.68362,0 -73.92935799999999,40.684811,0 -73.929526,40.685517,0 -73.929737,40.686608,0 -73.92981399999999,40.68698,0 -73.930036,40.688586,0 -73.92750599999999,40.688867,0 -73.926723,40.688967,0 -73.924303,40.689242,0 -73.923323,40.689374,0 -73.92187800000001,40.689679,0 -73.921233,40.690332,0 -73.92082600000001,40.69079,0 -73.920411,40.691163,0 -73.919415,40.692177,0 -73.918924,40.692682,0 -73.918301,40.693309,0 -73.917706,40.693913,0 -73.916755,40.694893,0 -73.916365,40.695284,0 -73.916365,40.695284,0 -73.916309,40.69534,0 -73.915047,40.695509,0 -73.914226,40.696301,0 -73.91264,40.697924,0 -73.91195500000001,40.69765,0 -73.91136299999999,40.697355,0 -73.911331,40.69736,0 -73.911264,40.697285,0 -73.91147700000001,40.697221,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark id="1464966180000">
+			<name>Moves in New York 6/2/16</name>
+			<TimeSpan>
+				<begin>2016-06-03T11:03:00-04:00</begin>
+				<end>2016-06-03T11:05:01-04:00</end>
+			</TimeSpan>
+			<styleUrl>#place_unknown1</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-73.91147700000001,40.697221,0 -73.91138700000001,40.69733,0 -73.911379,40.697359,0 -73.91135,40.697353,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark id="1464966630000">
+			<name>Moves in New York 6/2/16</name>
+			<TimeSpan>
+				<begin>2016-06-03T11:10:30-04:00</begin>
+				<end>2016-06-03T11:13:34-04:00</end>
+			</TimeSpan>
+			<styleUrl>#place_unknown31</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-73.91135,40.697353,0 -73.911433,40.697269,0 -73.911428,40.697278,0 -73.911311,40.697328,0 -73.911485,40.697373,0 -73.911689,40.697521,0 -73.911721,40.697751,0 -73.911652,40.697825,0 -73.91188,40.697954,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark id="1464982798000">
+			<name>Moves in New York 6/2/16</name>
+			<TimeSpan>
+				<begin>2016-06-03T15:39:58-04:00</begin>
+				<end>2016-06-03T16:56:41-04:00</end>
+			</TimeSpan>
+			<styleUrl>#place_unknown13</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-73.91135,40.697353,0 -73.911219,40.695758,0 -73.91250100000001,40.694465,0 -73.913084,40.693902,0 -73.913647,40.693296,0 -73.914787,40.692054,0 -73.91636200000001,40.690543,0 -73.91764499999999,40.689195,0 -73.91859,40.68822,0 -73.91954699999999,40.687577,0 -73.920832,40.687421,0 -73.92098900000001,40.687397,0 -73.92414700000001,40.687039,0 -73.92655499999999,40.686761,0 -73.928093,40.686568,0 -73.932138,40.686093,0 -73.93283200000001,40.686014,0 -73.934907,40.685785,0 -73.935671,40.685688,0 -73.937746,40.685433,0 -73.938484,40.685329,0 -73.940006,40.685164,0 -73.94102100000001,40.685052,0 -73.94194899999999,40.684958,0 -73.943973,40.684729,0 -73.945201,40.68459,0 -73.94683600000001,40.684416,0 -73.947743,40.684309,0 -73.949236,40.684122,0 -73.9499,40.684054,0 -73.951178,40.683909,0 -73.953616,40.683637,0 -73.953711,40.683606,0 -73.95588100000001,40.683353,0 -73.958303,40.683073,0 -73.95876,40.683,0 -73.961223,40.682725,0 -73.96168,40.682543,0 -73.961302,40.680875,0 -73.961395,40.680418,0 -73.961681,40.679749,0 -73.96196000000001,40.679008,0 -73.962101,40.678699,0 -73.962101,40.678699,0 -73.962335,40.678189,0 -73.96287,40.678301,0 -73.963729,40.67847,0 -73.964997,40.678748,0 -73.965406,40.678829,0 -73.96699700000001,40.679156,0 -73.968031,40.679351,0 -73.968385,40.67923,0 -73.968422,40.679085,0 -73.968712,40.678271,0 -73.96910699999999,40.677151,0 -73.96970399999999,40.675473,0 -73.97080699999999,40.674159,0 -73.970782,40.673779,0 -73.970634,40.673441,0 -73.970512,40.67258,0 -73.971788,40.670795,0 -73.972408,40.670046,0 -73.97398800000001,40.669146,0 -73.9755,40.669861,0 -73.975628,40.669913,0 -73.977344,40.67077,0 -73.97887,40.671495,0 -73.98001600000001,40.672027,0 -73.980377,40.672193,0 -73.982191,40.673093,0 -73.982634,40.673268,0 -73.98248599999999,40.673775,0 -73.981869,40.674503,0 -73.98069099999999,40.676188,0 -73.980634,40.676259,0 -73.98034300000001,40.676691,0 -73.98000999999999,40.677191,0 -73.979466,40.678008,0 -73.97901,40.678401,0 -73.977706,40.677857,0 -73.97705600000001,40.677611,0 -73.97651999999999,40.677609,0 -73.976258,40.678109,0 -73.97609799999999,40.678356,0 -73.975925,40.678585,0 -73.97582199999999,40.678678,0 -73.975647,40.678872,0 -73.97557500000001,40.678983,0 -73.97547,40.679202,0 -73.975239,40.67951,0 -73.97506799999999,40.679808,0 -73.973463,40.679568,0 -73.972163,40.679336,0 -73.971951,40.679289,0 -73.97096999999999,40.679079,0 -73.969717,40.678822,0 -73.96889899999999,40.678644,0 -73.968441,40.678686,0 -73.96825699999999,40.679303,0 -73.968048,40.679916,0 -73.96751500000001,40.681776,0 -73.96785199999999,40.683119,0 -73.967936,40.683509,0 -73.96793700000001,40.684286,0 -73.96668200000001,40.684456,0 -73.965982,40.684512,0 -73.96572500000001,40.68452,0 -73.96543,40.684557,0 -73.96425600000001,40.684694,0 -73.961308,40.685052,0 -73.959827,40.685975,0 -73.957694,40.68622,0 -73.956891,40.686313,0 -73.955128,40.686486,0 -73.95505900000001,40.686498,0 -73.953405,40.686676,0 -73.951218,40.686925,0 -73.95038200000001,40.687029,0 -73.94804000000001,40.687299,0 -73.94753900000001,40.687342,0 -73.945763,40.687584,0 -73.944937,40.68766,0 -73.944248,40.687695,0 -73.942301,40.687926,0 -73.941346,40.688029,0 -73.939454,40.68829,0 -73.937274,40.688532,0 -73.93649000000001,40.688614,0 -73.935349,40.688722,0 -73.933395,40.688951,0 -73.932272,40.689078,0 -73.930798,40.689287,0 -73.930071,40.689369,0 -73.92773699999999,40.689603,0 -73.927076,40.68965,0 -73.924325,40.689979,0 -73.92422000000001,40.689975,0 -73.92336899999999,40.690048,0 -73.922921,40.68985,0 -73.92274500000001,40.689777,0 -73.92217599999999,40.689493,0 -73.92112400000001,40.690562,0 -73.920864,40.690785,0 -73.920053,40.690548,0 -73.918806,40.691755,0 -73.918328,40.692253,0 -73.91706600000001,40.693549,0 -73.916122,40.694511,0 -73.915548,40.695056,0 -73.914407,40.69621,0 -73.91388000000001,40.696719,0 -73.91188,40.697954,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark id="1464988838000">
+			<name>Moves in New York 6/2/16</name>
+			<TimeSpan>
+				<begin>2016-06-03T17:20:38-04:00</begin>
+				<end>2016-06-03T17:22:40-04:00</end>
+			</TimeSpan>
+			<styleUrl>#place_unknown8</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-73.91188,40.697954,0 -73.911472,40.698085,0 -73.91118400000001,40.698303,0 -73.91128500000001,40.698592,0 -73.91148200000001,40.698946,0 -73.91142600000001,40.69934,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark id="1464988960000">
+			<name>Moves in New York 6/2/16</name>
+			<TimeSpan>
+				<begin>2016-06-03T17:22:40-04:00</begin>
+				<end>2016-06-03T17:47:45-04:00</end>
+			</TimeSpan>
+			<styleUrl>#place_unknown18</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-73.91142600000001,40.69934,0 -73.911388,40.699712,0 -73.91132,40.699724,0 -73.91136299999999,40.699726,0 -73.911416,40.699729,0 -73.91144799999999,40.699732,0 -73.91148,40.699737,0 -73.911513,40.699743,0 -73.91154899999999,40.699752,0 -73.911576,40.699759,0 -73.91165100000001,40.699782,0 -73.911681,40.699792,0 -73.91171300000001,40.699804,0 -73.944424,40.714659,0 -73.944458,40.714657,0 -73.944436,40.714659,0 -73.951356,40.714134,0 -73.951356,40.714134,0 -73.956468,40.717061,0 -73.957126,40.717453,0 -73.996917,40.737473,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark id="1464990466000">
+			<name>Moves in New York 6/2/16</name>
+			<TimeSpan>
+				<begin>2016-06-03T17:47:46-04:00</begin>
+				<end>2016-06-03T17:56:41-04:00</end>
+			</TimeSpan>
+			<styleUrl>#place_unknown39</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-73.997011,40.737316,0 -73.997041,40.737292,0 -73.99704199999999,40.737291,0 -73.997047,40.737284,0 -73.997055,40.737273,0 -73.99706500000001,40.737258,0 -74.00125300000001,40.731169,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark id="1464991002000">
+			<name>Moves in New York 6/2/16</name>
+			<TimeSpan>
+				<begin>2016-06-03T17:56:42-04:00</begin>
+				<end>2016-06-03T18:00:12-04:00</end>
+			</TimeSpan>
+			<styleUrl>#place_unknown32</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-74.00125300000001,40.731169,0 -74.00140500000001,40.73094,0 -74.001429,40.730999,0 -74.001488,40.731137,0 -74.001381,40.731523,0 -74.001381,40.731523,0 -74.001351,40.73163,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark id="1465000045000">
+			<name>Moves in New York 6/2/16</name>
+			<TimeSpan>
+				<begin>2016-06-03T20:27:25-04:00</begin>
+				<end>2016-06-03T20:32:11-04:00</end>
+			</TimeSpan>
+			<styleUrl>#place_unknown</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-73.984302,40.72687,0 -73.98365800000001,40.727501,0 -73.983738,40.727676,0 -73.98426000000001,40.727401,0 -73.98464199999999,40.727299,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark id="1465007232000">
+			<name>Moves in New York 6/2/16</name>
+			<TimeSpan>
+				<begin>2016-06-03T22:27:12-04:00</begin>
+				<end>2016-06-03T22:34:27-04:00</end>
+			</TimeSpan>
+			<styleUrl>#place_unknown34</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-73.98464199999999,40.727299,0 -73.983741,40.726848,0 -73.98356,40.726761,0 -73.981905,40.725609,0 -73.981635,40.72577,0 -73.980102,40.726695,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark id="1465007936000">
+			<name>Moves in New York 6/2/16</name>
+			<TimeSpan>
+				<begin>2016-06-03T22:38:56-04:00</begin>
+				<end>2016-06-03T22:52:39-04:00</end>
+			</TimeSpan>
+			<styleUrl>#place_unknown22</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-73.980102,40.726695,0 -73.98004400000001,40.726712,0 -73.980136,40.726523,0 -73.98034199999999,40.726255,0 -73.981503,40.724188,0 -73.98166000000001,40.724183,0 -73.98226200000001,40.723871,0 -73.982275,40.723817,0 -73.98228500000001,40.722223,0 -73.98187900000001,40.721985,0 -73.981342,40.722009,0 -73.980852,40.721272,0 -73.980904,40.721191,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark id="1465008759000">
+			<name>Moves in New York 6/3/16</name>
+			<TimeSpan>
+				<begin>2016-06-03T22:52:39-04:00</begin>
+				<end>2016-06-03T22:54:54-04:00</end>
+			</TimeSpan>
+			<styleUrl>#place_unknown16</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-73.98091100000001,40.721178,0 -73.980904,40.721191,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark id="1465008895000">
+			<description><![CDATA[<p>6/3/16<br/> 10:54 PM to 12:00 AM<br/> 1:05 hours</p> <p>Walking 18 min, 0.8 mi, 1,679 steps</p>]]></description>
+			<TimeSpan>
+				<begin>2016-06-03T22:54:56-04:00</begin>
+				<end>2016-06-03T23:59:59-04:00</end>
+			</TimeSpan>
+			<styleUrl>#place_unknown20</styleUrl>
+			<Point>
+				<coordinates>-73.980904,40.721191,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

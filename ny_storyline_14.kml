@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Document>
+	<name>storyline_20160613.kml</name>
+	<open>1</open>
+	<description><![CDATA[<p align="center"><a href="http://www.moves-app.com"> <img src="http://www.moves-app.com/assets/moves.png"/> </a></p> <p align="center">Moves Storyline</p>]]></description>
+	<atom:link href="http://www.moves-app.com"></atom:link>
+	<StyleMap id="activity_walking">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#activity_walking3</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#activity_walking0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="activity_walking0">
+		<IconStyle>
+			<scale>0</scale>
+			<heading>0</heading>
+			<Icon>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>dfffaa00</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<Style id="activity_walking1">
+		<IconStyle>
+			<scale>0</scale>
+			<heading>0</heading>
+			<Icon>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>dfffaa00</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="activity_walking2">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#activity_walking7</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#activity_walking1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="activity_walking3">
+		<IconStyle>
+			<scale>0</scale>
+			<heading>0</heading>
+			<Icon>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>dfffaa00</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<Style id="activity_walking4">
+		<IconStyle>
+			<scale>0</scale>
+			<heading>0</heading>
+			<Icon>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>dfffaa00</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<Style id="activity_walking5">
+		<IconStyle>
+			<scale>0</scale>
+			<heading>0</heading>
+			<Icon>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>dfffaa00</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="activity_walking6">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#activity_walking4</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#activity_walking5</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="activity_walking7">
+		<IconStyle>
+			<scale>0</scale>
+			<heading>0</heading>
+			<Icon>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>dfffaa00</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<Folder>
+		<name>6/13/16</name>
+		<open>1</open>
+		<Placemark id="1465867213000">
+			<name>Moves in New York 6/13/16</name>
+			<TimeSpan>
+				<begin>2016-06-13T21:20:13-04:00</begin>
+				<end>2016-06-13T21:23:00-04:00</end>
+			</TimeSpan>
+			<styleUrl>#activity_walking</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-73.91188,40.697954,0 -73.911648,40.697785,0 -73.911635,40.697642,0 -73.91163,40.697484,0 -73.911417,40.697277,0 -73.91135,40.697353,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark id="1465867679000">
+			<name>Moves in New York 6/13/16</name>
+			<TimeSpan>
+				<begin>2016-06-13T21:27:59-04:00</begin>
+				<end>2016-06-13T21:46:08-04:00</end>
+			</TimeSpan>
+			<styleUrl>#activity_walking6</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-73.91135,40.697353,0 -73.911275,40.697242,0 -73.910889,40.696143,0 -73.912603,40.695531,0 -73.913664,40.696142,0 -73.914782,40.69681,0 -73.916123,40.695596,0 -73.916506,40.695194,0 -73.91769600000001,40.693882,0 -73.918896,40.692653,0 -73.919596,40.692178,0 -73.92128200000001,40.692741,0 -73.923248,40.690828,0 -73.923625,40.690473,0 -73.924111,40.690683,0 -73.924317,40.690781,0 -73.927325,40.690418,0 -73.92813,40.690298,0 -73.93029900000001,40.690074,0 -73.930386,40.690062,0 -73.932017,40.689882,0 -73.933421,40.689712,0 -73.93593300000001,40.689433,0 -73.937995,40.689187,0 -73.939117,40.689041,0 -73.93961299999999,40.68899,0 -73.941872,40.68873,0 -73.942866,40.688605,0 -73.945082,40.688363,0 -73.947118,40.688116,0 -73.95003800000001,40.687778,0 -73.950568,40.687708,0 -73.950885,40.687103,0 -73.950687,40.68604,0 -73.95065099999999,40.685739,0 -73.950672,40.684001,0 -73.952472,40.683789,0 -73.953799,40.683629,0 -73.956346,40.683322,0 -73.958398,40.683089,0 -73.95957199999999,40.682947,0 -73.960706,40.682723,0 -73.96057999999999,40.682193,0 -73.959678,40.682746,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark id="1465870419000">
+			<name>Moves in New York 6/13/16</name>
+			<TimeSpan>
+				<begin>2016-06-13T22:13:39-04:00</begin>
+				<end>2016-06-13T22:48:49-04:00</end>
+			</TimeSpan>
+			<styleUrl>#activity_walking2</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-73.959678,40.682746,0 -73.959172,40.684895,0 -73.959176,40.684992,0 -73.959492,40.686273,0 -73.95978700000001,40.687692,0 -73.96013499999999,40.689166,0 -73.960221,40.690146,0 -73.960584,40.691733,0 -73.960751,40.692529,0 -73.961024,40.693785,0 -73.96133399999999,40.695063,0 -73.96170100000001,40.696176,0 -73.963883,40.695895,0 -73.964882,40.695864,0 -73.96548,40.695999,0 -73.965802,40.697536,0 -73.967482,40.697691,0 -73.969467,40.697806,0 -73.969605,40.697777,0 -73.970848,40.697852,0 -73.97311999999999,40.697938,0 -73.975528,40.698048,0 -73.97803399999999,40.69815,0 -73.980688,40.698268,0 -73.982466,40.698357,0 -73.98286,40.698442,0 -73.983017,40.698443,0 -73.982923,40.699626,0 -73.982919,40.699713,0 -73.984132,40.699842,0 -73.98664700000001,40.700212,0 -73.98758700000001,40.700183,0 -73.988844,40.700144,0 -73.98921799999999,40.700255,0 -73.99165499999999,40.702084,0 -73.994822,40.704618,0 -73.997298,40.706604,0 -73.999156,40.708096,0 -74.00194000000001,40.710313,0 -74.002719,40.711667,0 -74.00202400000001,40.71062,0 -73.999819,40.708198,0 -73.997283,40.708782,0 -73.99416600000001,40.709258,0 -73.989655,40.709904,0 -73.984854,40.710454,0 -73.981258,40.710714,0 -73.978071,40.711838,0 -73.976574,40.714439,0 -73.974806,40.719085,0 -73.974453,40.721846,0 -73.97224199999999,40.725756,0 -73.971639,40.728678,0 -73.973409,40.730997,0 -73.974194,40.732947,0 -73.97475799999999,40.73511,0 -73.974175,40.737542,0 -73.97246300000001,40.741246,0 -73.971824,40.743493,0 -73.97024399999999,40.745613,0 -73.968242,40.747748,0 -73.966658,40.749752,0 -73.964815,40.751802,0 -73.96305099999999,40.753835,0 -73.96135,40.755445,0 -73.958778,40.758487,0 -73.95689900000001,40.760375,0 -73.95497899999999,40.761964,0 -73.953384,40.763528,0 -73.95068600000001,40.766641,0 -73.948942,40.768756,0 -73.947018,40.770797,0 -73.944881,40.772771,0 -73.942527,40.77591,0 -73.94305,40.778537,0 -73.943927,40.780788,0 -73.94353700000001,40.783256,0 -73.940865,40.784894,0 -73.939049,40.7864,0 -73.937625,40.788573,0 -73.93617999999999,40.790887,0 -73.93384,40.792705,0 -73.929627,40.795527,0 -73.92905399999999,40.797875,0 -73.929289,40.799817,0 -73.930004,40.802643,0 -73.931061,40.804553,0 -73.93273499999999,40.806354,0 -73.93437299999999,40.808352,0 -73.934765,40.810545,0 -73.93572399999999,40.812017,0 -73.93584799999999,40.812075,0 -73.937502,40.812774,0 -73.938259,40.81197,0 -73.93871,40.811343,0 -73.939443,40.810305,0 -73.940466,40.808882,0 -73.941012,40.80822,0 -73.942127,40.806651,0 -73.943001,40.805845,0 -73.94425800000001,40.806417,0 -73.945595,40.807004,0 -73.945774,40.807079,0 -73.94622099999999,40.806951,0 -73.94641300000001,40.806662,0 -73.947194,40.805608,0 -73.948578,40.804135,0 -73.950217,40.804794,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

@@ -1,0 +1,2394 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Document>
+	<name>storyline_20161018.kml</name>
+	<open>1</open>
+	<description><![CDATA[<p align="center"><a href="http://www.moves-app.com"> <img src="http://www.moves-app.com/assets/moves.png"/> </a></p> <p align="center">Moves Storyline</p>]]></description>
+	<atom:link href="http://www.moves-app.com"></atom:link>
+	<Style id="place_unknown">
+		<IconStyle>
+			<heading>0</heading>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/marker_white.png</href>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00aa00</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="place_unknown0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#place_unknown36</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#place_unknown14</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="place_unknown1">
+		<IconStyle>
+			<heading>0</heading>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/marker_white.png</href>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00aa00</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<Style id="place_unknown2">
+		<IconStyle>
+			<heading>0</heading>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/marker_white.png</href>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<Style id="place_unknown3">
+		<IconStyle>
+			<heading>0</heading>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/marker_white.png</href>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="place_unknown4">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#place_unknown29</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#place_unknown47</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="place_unknown5">
+		<IconStyle>
+			<heading>0</heading>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/marker_white.png</href>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00aa00</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<Style id="place_unknown6">
+		<IconStyle>
+			<heading>0</heading>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/marker_white.png</href>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00aa00</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<Style id="place_unknown7">
+		<IconStyle>
+			<heading>0</heading>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/marker_white.png</href>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<Style id="place_unknown8">
+		<IconStyle>
+			<heading>0</heading>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/marker_white.png</href>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="place_unknown9">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#place_unknown120</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#place_unknown34</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="place_unknown10">
+		<IconStyle>
+			<heading>0</heading>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/marker_white.png</href>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="place_unknown11">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#place_unknown67</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#place_unknown32</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="place_unknown12">
+		<IconStyle>
+			<heading>0</heading>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/marker_white.png</href>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<Style id="place_unknown13">
+		<IconStyle>
+			<heading>0</heading>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/marker_white.png</href>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<Style id="place_unknown14">
+		<IconStyle>
+			<heading>0</heading>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/marker_white.png</href>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<Style id="place_unknown15">
+		<IconStyle>
+			<heading>0</heading>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/marker_white.png</href>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<Style id="place_unknown16">
+		<IconStyle>
+			<heading>0</heading>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/marker_white.png</href>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00aa00</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<Style id="place_unknown17">
+		<IconStyle>
+			<heading>0</heading>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/marker_white.png</href>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00aa00</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<Style id="place_unknown18">
+		<IconStyle>
+			<heading>0</heading>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/marker_white.png</href>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="place_unknown19">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#place_unknown7</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#place_unknown94</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="place_unknown20">
+		<IconStyle>
+			<heading>0</heading>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/marker_white.png</href>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00aa00</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<Style id="place_unknown21">
+		<IconStyle>
+			<heading>0</heading>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/marker_white.png</href>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<Style id="place_unknown22">
+		<IconStyle>
+			<heading>0</heading>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/marker_white.png</href>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00aa00</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<Style id="place_unknown23">
+		<IconStyle>
+			<heading>0</heading>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/marker_white.png</href>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<Style id="place_unknown24">
+		<IconStyle>
+			<heading>0</heading>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/marker_white.png</href>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00aa00</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<Style id="place_unknown25">
+		<IconStyle>
+			<heading>0</heading>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/marker_white.png</href>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<Style id="place_unknown26">
+		<IconStyle>
+			<heading>0</heading>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/marker_white.png</href>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="place_unknown27">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#place_unknown51</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#place_unknown92</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="place_unknown28">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#place_unknown127</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#place_unknown93</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="place_unknown29">
+		<IconStyle>
+			<heading>0</heading>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/marker_white.png</href>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00aa00</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="place_unknown30">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#place_unknown99</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#place_unknown118</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="place_unknown31">
+		<IconStyle>
+			<heading>0</heading>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/marker_white.png</href>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<Style id="place_unknown32">
+		<IconStyle>
+			<heading>0</heading>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/marker_white.png</href>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="place_unknown33">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#place_unknown20</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#place_unknown123</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="place_unknown34">
+		<IconStyle>
+			<heading>0</heading>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/marker_white.png</href>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="place_unknown35">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#place_unknown22</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#place_unknown49</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="place_unknown36">
+		<IconStyle>
+			<heading>0</heading>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/marker_white.png</href>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<Style id="place_unknown37">
+		<IconStyle>
+			<heading>0</heading>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/marker_white.png</href>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00aa00</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<Style id="place_unknown38">
+		<IconStyle>
+			<heading>0</heading>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/marker_white.png</href>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<Style id="place_unknown39">
+		<IconStyle>
+			<heading>0</heading>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/marker_white.png</href>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<Style id="place_unknown40">
+		<IconStyle>
+			<heading>0</heading>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/marker_white.png</href>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<Style id="place_unknown41">
+		<IconStyle>
+			<heading>0</heading>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/marker_white.png</href>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="place_unknown42">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#place_unknown111</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#place_unknown77</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="place_unknown43">
+		<IconStyle>
+			<heading>0</heading>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/marker_white.png</href>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00aa00</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="place_unknown44">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#place_unknown5</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#place_unknown70</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="place_unknown45">
+		<IconStyle>
+			<heading>0</heading>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/marker_white.png</href>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<Style id="place_unknown46">
+		<IconStyle>
+			<heading>0</heading>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/marker_white.png</href>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<Style id="place_unknown47">
+		<IconStyle>
+			<heading>0</heading>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/marker_white.png</href>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00aa00</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="place_unknown48">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#place_unknown62</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#place_unknown125</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="place_unknown49">
+		<IconStyle>
+			<heading>0</heading>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/marker_white.png</href>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00aa00</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<Style id="place_unknown50">
+		<IconStyle>
+			<heading>0</heading>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/marker_white.png</href>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<Style id="place_unknown51">
+		<IconStyle>
+			<heading>0</heading>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/marker_white.png</href>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<Style id="place_unknown52">
+		<IconStyle>
+			<heading>0</heading>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/marker_white.png</href>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00aa00</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<Style id="place_unknown53">
+		<IconStyle>
+			<heading>0</heading>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/marker_white.png</href>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<Style id="place_unknown54">
+		<IconStyle>
+			<heading>0</heading>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/marker_white.png</href>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00aa00</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<Style id="place_unknown55">
+		<IconStyle>
+			<heading>0</heading>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/marker_white.png</href>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00aa00</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<Style id="place_unknown56">
+		<IconStyle>
+			<heading>0</heading>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/marker_white.png</href>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<Style id="place_unknown57">
+		<IconStyle>
+			<heading>0</heading>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/marker_white.png</href>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00aa00</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<Style id="place_unknown58">
+		<IconStyle>
+			<heading>0</heading>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/marker_white.png</href>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<Style id="place_unknown59">
+		<IconStyle>
+			<heading>0</heading>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/marker_white.png</href>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<Style id="place_unknown60">
+		<IconStyle>
+			<heading>0</heading>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/marker_white.png</href>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="place_unknown61">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#place_unknown2</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#place_unknown13</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="place_unknown62">
+		<IconStyle>
+			<heading>0</heading>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/marker_white.png</href>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<Style id="place_unknown63">
+		<IconStyle>
+			<heading>0</heading>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/marker_white.png</href>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="place_unknown64">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#place_unknown26</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#place_unknown88</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="place_unknown65">
+		<IconStyle>
+			<heading>0</heading>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/marker_white.png</href>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="place_unknown66">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#place_unknown15</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#place_unknown65</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="place_unknown67">
+		<IconStyle>
+			<heading>0</heading>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/marker_white.png</href>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="place_unknown68">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#place_unknown124</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#place_unknown3</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="place_unknown69">
+		<IconStyle>
+			<heading>0</heading>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/marker_white.png</href>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00aa00</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<Style id="place_unknown70">
+		<IconStyle>
+			<heading>0</heading>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/marker_white.png</href>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00aa00</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<Style id="place_unknown71">
+		<IconStyle>
+			<heading>0</heading>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/marker_white.png</href>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="place_unknown72">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#place_unknown53</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#place_unknown59</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="place_unknown73">
+		<IconStyle>
+			<heading>0</heading>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/marker_white.png</href>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="place_unknown74">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#place_unknown39</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#place_unknown23</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="place_unknown75">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#place_unknown105</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#place_unknown52</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="place_unknown76">
+		<IconStyle>
+			<heading>0</heading>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/marker_white.png</href>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00aa00</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<Style id="place_unknown77">
+		<IconStyle>
+			<heading>0</heading>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/marker_white.png</href>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="place_unknown78">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#place_unknown102</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#place_unknown60</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="place_unknown79">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#place_unknown</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#place_unknown43</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="place_unknown80">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#place_unknown109</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#place_unknown46</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="place_unknown81">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#place_unknown129</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#place_unknown8</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="place_unknown82">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#place_unknown73</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#place_unknown18</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="place_unknown83">
+		<IconStyle>
+			<heading>0</heading>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/marker_white.png</href>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00aa00</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<Style id="place_unknown84">
+		<IconStyle>
+			<heading>0</heading>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/marker_white.png</href>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="place_unknown85">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#place_unknown37</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#place_unknown1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="place_unknown86">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#place_unknown84</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#place_unknown119</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="place_unknown87">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#place_unknown57</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#place_unknown104</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="place_unknown88">
+		<IconStyle>
+			<heading>0</heading>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/marker_white.png</href>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="place_unknown89">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#place_unknown12</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#place_unknown58</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="place_unknown90">
+		<IconStyle>
+			<heading>0</heading>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/marker_white.png</href>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00aa00</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="place_unknown91">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#place_unknown16</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#place_unknown90</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="place_unknown92">
+		<IconStyle>
+			<heading>0</heading>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/marker_white.png</href>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<Style id="place_unknown93">
+		<IconStyle>
+			<heading>0</heading>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/marker_white.png</href>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<Style id="place_unknown94">
+		<IconStyle>
+			<heading>0</heading>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/marker_white.png</href>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<Style id="place_unknown95">
+		<IconStyle>
+			<heading>0</heading>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/marker_white.png</href>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="place_unknown96">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#place_unknown21</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#place_unknown56</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="place_unknown97">
+		<IconStyle>
+			<heading>0</heading>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/marker_white.png</href>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="place_unknown98">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#place_unknown83</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#place_unknown6</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="place_unknown99">
+		<IconStyle>
+			<heading>0</heading>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/marker_white.png</href>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="place_unknown100">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#place_unknown97</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#place_unknown25</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="place_unknown101">
+		<IconStyle>
+			<heading>0</heading>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/marker_white.png</href>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<Style id="place_unknown102">
+		<IconStyle>
+			<heading>0</heading>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/marker_white.png</href>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="place_unknown103">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#place_unknown106</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#place_unknown41</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="place_unknown104">
+		<IconStyle>
+			<heading>0</heading>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/marker_white.png</href>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00aa00</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<Style id="place_unknown105">
+		<IconStyle>
+			<heading>0</heading>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/marker_white.png</href>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00aa00</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<Style id="place_unknown106">
+		<IconStyle>
+			<heading>0</heading>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/marker_white.png</href>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<Style id="place_unknown107">
+		<IconStyle>
+			<heading>0</heading>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/marker_white.png</href>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00aa00</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="place_unknown108">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#place_unknown110</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#place_unknown55</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="place_unknown109">
+		<IconStyle>
+			<heading>0</heading>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/marker_white.png</href>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<Style id="place_unknown110">
+		<IconStyle>
+			<heading>0</heading>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/marker_white.png</href>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00aa00</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<Style id="place_unknown111">
+		<IconStyle>
+			<heading>0</heading>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/marker_white.png</href>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="place_unknown112">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#place_unknown63</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#place_unknown40</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="place_unknown113">
+		<IconStyle>
+			<heading>0</heading>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/marker_white.png</href>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="place_unknown114">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#place_unknown45</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#place_unknown113</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="place_unknown115">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#place_unknown10</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#place_unknown116</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="place_unknown116">
+		<IconStyle>
+			<heading>0</heading>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/marker_white.png</href>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="place_unknown117">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#place_unknown76</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#place_unknown17</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="place_unknown118">
+		<IconStyle>
+			<heading>0</heading>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/marker_white.png</href>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<Style id="place_unknown119">
+		<IconStyle>
+			<heading>0</heading>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/marker_white.png</href>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<Style id="place_unknown120">
+		<IconStyle>
+			<heading>0</heading>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/marker_white.png</href>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="place_unknown121">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#place_unknown24</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#place_unknown107</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="place_unknown122">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#place_unknown38</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#place_unknown95</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="place_unknown123">
+		<IconStyle>
+			<heading>0</heading>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/marker_white.png</href>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00aa00</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<Style id="place_unknown124">
+		<IconStyle>
+			<heading>0</heading>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/marker_white.png</href>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<Style id="place_unknown125">
+		<IconStyle>
+			<heading>0</heading>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/marker_white.png</href>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="place_unknown126">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#place_unknown101</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#place_unknown31</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="place_unknown127">
+		<IconStyle>
+			<heading>0</heading>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/marker_white.png</href>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="place_unknown128">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#place_unknown50</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#place_unknown71</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="place_unknown129">
+		<IconStyle>
+			<heading>0</heading>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/marker_white.png</href>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="place_unknown130">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#place_unknown54</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#place_unknown69</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Folder>
+		<name>10/19/16</name>
+		<Placemark id="1476880947000">
+			<name>Trip to Catskills 10/19/16</name>
+			<TimeSpan>
+				<begin>2016-10-19T08:42:27-04:00</begin>
+				<end>2016-10-19T09:10:26-04:00</end>
+			</TimeSpan>
+			<styleUrl>#place_unknown85</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-74.119337,42.039937,0 -74.117904,42.04927,0 -74.1181,42.049672,0 -74.119618,42.061545,0 -74.11900900000001,42.061988,0 -74.123825,42.069414,0 -74.122231,42.068551,0 -74.12222199999999,42.067693,0 -74.12137,42.062791,0 -74.119666,42.06154,0 -74.12275800000001,42.060755,0 -74.121791,42.05977,0 -74.120257,42.059274,0 -74.118342,42.05931,0 -74.118321,42.058989,0 -74.118321,42.058988,0 -74.118235,42.057701,0 -74.118691,42.055827,0 -74.119237,42.055013,0 -74.11848000000001,42.054741,0 -74.118477,42.054348,0 -74.118662,42.054015,0 -74.118617,42.054081,0 -74.118577,42.054801,0 -74.118613,42.054891,0 -74.118488,42.054856,0 -74.11846,42.054848,0 -74.11846,42.054848,0 -74.118263,42.053345,0 -74.11819300000001,42.052118,0 -74.11843,42.054807,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark id="1476883022000">
+			<name>Trip to Catskills 10/19/16</name>
+			<TimeSpan>
+				<begin>2016-10-19T09:17:02-04:00</begin>
+				<end>2016-10-19T09:31:33-04:00</end>
+			</TimeSpan>
+			<styleUrl>#place_unknown117</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-74.11843,42.054807,0 -74.11848999999999,42.054409,0 -74.118589,42.053754,0 -74.118342,42.050278,0 -74.118329,42.050176,0 -74.11789899999999,42.044554,0 -74.11805099999999,42.044493,0 -74.11831599999999,42.044214,0 -74.118315,42.042952,0 -74.11833,42.041503,0 -74.118546,42.0412,0 -74.118961,42.040839,0 -74.117615,42.040714,0 -74.116327,42.040043,0 -74.11606399999999,42.040169,0 -74.116427,42.040124,0 -74.117931,42.040756,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark id="1476885549000">
+			<name>Trip to Catskills 10/19/16</name>
+			<TimeSpan>
+				<begin>2016-10-19T09:59:09-04:00</begin>
+				<end>2016-10-19T10:00:25-04:00</end>
+			</TimeSpan>
+			<styleUrl>#place_unknown87</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-74.117931,42.040756,0 -74.121309,42.040372,0 -74.121515,42.040356,0 -74.12132200000001,42.040367,0 -74.12132200000001,42.040367,0 -74.12100100000001,42.040386,0 -74.117499,42.042012,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark id="1476891911000">
+			<name>Trip to Catskills 10/19/16</name>
+			<TimeSpan>
+				<begin>2016-10-19T11:45:11-04:00</begin>
+				<end>2016-10-19T11:45:32-04:00</end>
+			</TimeSpan>
+			<styleUrl>#place_unknown44</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-74.117499,42.042012,0 -74.1203,42.04027,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark id="1476897600000">
+			<name>Trip to Catskills 10/19/16</name>
+			<TimeSpan>
+				<begin>2016-10-19T13:20:00-04:00</begin>
+				<end>2016-10-19T15:44:59-04:00</end>
+			</TimeSpan>
+			<styleUrl>#place_unknown121</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-74.1203,42.04027,0 -74.11867,42.040044,0 -74.11860900000001,42.040251,0 -74.11845099999999,42.04092,0 -74.117907,42.040835,0 -74.117029,42.040409,0 -74.11583,42.039803,0 -74.113907,42.038744,0 -74.111282,42.037378,0 -74.110938,42.035989,0 -74.10945200000001,42.033528,0 -74.10824,42.031046,0 -74.106734,42.028999,0 -74.106059,42.026375,0 -74.106352,42.023741,0 -74.105594,42.021069,0 -74.105514,42.01821,0 -74.10657000000001,42.014161,0 -74.107462,42.012119,0 -74.106548,42.008111,0 -74.10575,42.005077,0 -74.10522400000001,42.00139,0 -74.105068,41.998932,0 -74.104905,41.997943,0 -74.104184,41.997054,0 -74.101412,41.996666,0 -74.09696700000001,41.996019,0 -74.091956,41.995652,0 -74.088517,41.99444,0 -74.08745399999999,41.993249,0 -74.08634499999999,41.991386,0 -74.08628,41.988586,0 -74.086207,41.985574,0 -74.086089,41.980167,0 -74.084159,41.977214,0 -74.082024,41.974411,0 -74.07979,41.97289,0 -74.074034,41.971044,0 -74.069857,41.968561,0 -74.064892,41.964803,0 -74.061048,41.962645,0 -74.057097,41.960432,0 -74.053063,41.958315,0 -74.04960800000001,41.95585,0 -74.04768300000001,41.952289,0 -74.043894,41.949549,0 -74.039169,41.948898,0 -74.03341500000001,41.947844,0 -74.031993,41.947063,0 -74.031074,41.94644,0 -74.029442,41.944566,0 -74.028333,41.94334,0 -74.026836,41.944957,0 -74.026681,41.945091,0 -74.026663,41.945103,0 -74.025431,41.947032,0 -74.027563,41.948767,0 -74.026205,41.950126,0 -74.027342,41.947905,0 -74.031682,41.944469,0 -74.035012,41.940672,0 -74.037487,41.937632,0 -74.041346,41.932944,0 -74.044488,41.92689,0 -74.044663,41.922001,0 -74.044101,41.915512,0 -74.0432,41.910296,0 -74.042294,41.904247,0 -74.043635,41.898334,0 -74.046763,41.894636,0 -74.051042,41.890425,0 -74.05528700000001,41.887511,0 -74.058393,41.881044,0 -74.05842,41.876022,0 -74.058339,41.87121,0 -74.057535,41.867023,0 -74.05728000000001,41.863156,0 -74.058104,41.85871,0 -74.05937299999999,41.852923,0 -74.06001500000001,41.849061,0 -74.059551,41.845311,0 -74.058454,41.839662,0 -74.057821,41.835769,0 -74.057596,41.831306,0 -74.05748199999999,41.823877,0 -74.056956,41.819844,0 -74.055818,41.8156,0 -74.05431900000001,41.811806,0 -74.05289500000001,41.807881,0 -74.05222600000001,41.804125,0 -74.052243,41.798607,0 -74.05192099999999,41.793947,0 -74.05081300000001,41.789113,0 -74.05097000000001,41.782271,0 -74.051591,41.777976,0 -74.052243,41.77425,0 -74.053303,41.770239,0 -74.055369,41.764125,0 -74.056918,41.759638,0 -74.058741,41.755781,0 -74.06241,41.749288,0 -74.064255,41.744739,0 -74.065044,41.740656,0 -74.065592,41.737104,0 -74.06618400000001,41.733489,0 -74.067227,41.729266,0 -74.070447,41.723254,0 -74.07238099999999,41.719047,0 -74.07342,41.714705,0 -74.07489800000001,41.710062,0 -74.078244,41.704303,0 -74.079829,41.697277,0 -74.079465,41.695604,0 -74.079465,41.695601,0 -74.078997,41.693448,0 -74.077888,41.689733,0 -74.07890500000001,41.683068,0 -74.080692,41.676312,0 -74.07987300000001,41.67192,0 -74.078844,41.668108,0 -74.07848900000001,41.662666,0 -74.078384,41.657816,0 -74.07776,41.653556,0 -74.077072,41.649396,0 -74.077168,41.644968,0 -74.07870200000001,41.6375,0 -74.07884,41.632554,0 -74.079053,41.628456,0 -74.079872,41.624291,0 -74.081255,41.619713,0 -74.082064,41.615758,0 -74.083039,41.60815,0 -74.08432000000001,41.603057,0 -74.086101,41.597383,0 -74.08783699999999,41.591767,0 -74.08897,41.586886,0 -74.088494,41.582471,0 -74.08686400000001,41.57849,0 -74.085239,41.574318,0 -74.08399,41.567546,0 -74.08287799999999,41.56357,0 -74.081654,41.559444,0 -74.080935,41.555363,0 -74.080721,41.551284,0 -74.079493,41.546376,0 -74.0778,41.541534,0 -74.076736,41.537672,0 -74.076104,41.533559,0 -74.075706,41.528878,0 -74.07507800000001,41.524677,0 -74.074237,41.520572,0 -74.07376100000001,41.51596,0 -74.07409199999999,41.511807,0 -74.074995,41.507954,0 -74.07615300000001,41.503646,0 -74.077569,41.49742,0 -74.078722,41.491255,0 -74.07966399999999,41.485031,0 -74.079042,41.480906,0 -74.077094,41.476726,0 -74.074659,41.472733,0 -74.071782,41.4679,0 -74.069604,41.464336,0 -74.06695499999999,41.460034,0 -74.06501900000001,41.456118,0 -74.064573,41.452122,0 -74.066253,41.445407,0 -74.067144,41.441186,0 -74.06773699999999,41.436034,0 -74.06809800000001,41.43198,0 -74.068837,41.424333,0 -74.06911599999999,41.420492,0 -74.069957,41.416702,0 -74.072834,41.413197,0 -74.077659,41.408867,0 -74.08146499999999,41.405461,0 -74.085385,41.401982,0 -74.08863,41.399103,0 -74.091813,41.396031,0 -74.094898,41.392239,0 -74.098303,41.387824,0 -74.100835,41.384438,0 -74.103245,41.380329,0 -74.103405,41.376419,0 -74.10216,41.372676,0 -74.101724,41.369013,0 -74.10386699999999,41.363231,0 -74.10758,41.357042,0 -74.11031800000001,41.353936,0 -74.114621,41.34959,0 -74.116767,41.346016,0 -74.117531,41.342,0 -74.116925,41.337919,0 -74.115332,41.334403,0 -74.113697,41.330595,0 -74.11268800000001,41.32633,0 -74.112942,41.322559,0 -74.115411,41.317244,0 -74.120516,41.312265,0 -74.12357900000001,41.310415,0 -74.12483,41.309723,0 -74.124848,41.309699,0 -74.12486199999999,41.309698,0 -74.126004,41.308898,0 -74.12851600000001,41.306925,0 -74.131362,41.304275,0 -74.13515200000001,41.300086,0 -74.138632,41.294539,0 -74.13983500000001,41.290793,0 -74.141119,41.286628,0 -74.143635,41.282399,0 -74.14673500000001,41.278894,0 -74.15022500000001,41.274926,0 -74.15337,41.270883,0 -74.155193,41.26715,0 -74.157257,41.262917,0 -74.161689,41.255806,0 -74.165098,41.252129,0 -74.169505,41.246094,0 -74.171413,41.242117,0 -74.174566,41.234774,0 -74.17823300000001,41.230604,0 -74.18197499999999,41.227742,0 -74.184467,41.223824,0 -74.184046,41.219314,0 -74.18242100000001,41.215309,0 -74.181758,41.20823,0 -74.181811,41.203555,0 -74.181578,41.199509,0 -74.18224600000001,41.195325,0 -74.181814,41.19048,0 -74.181319,41.185645,0 -74.182816,41.180926,0 -74.184763,41.17674,0 -74.186505,41.172553,0 -74.185976,41.168439,0 -74.184459,41.164246,0 -74.18564000000001,41.159887,0 -74.1892,41.153468,0 -74.188281,41.148294,0 -74.185307,41.14488,0 -74.18026,41.143014,0 -74.171573,41.140589,0 -74.168739,41.137034,0 -74.16787600000001,41.130528,0 -74.166448,41.126456,0 -74.164334,41.122876,0 -74.161106,41.119569,0 -74.156601,41.117832,0 -74.15163800000001,41.118462,0 -74.144695,41.120545,0 -74.139033,41.121527,0 -74.13389599999999,41.12105,0 -74.129126,41.119969,0 -74.124363,41.118933,0 -74.118613,41.117653,0 -74.113485,41.116474,0 -74.108689,41.115394,0 -74.10422,41.114375,0 -74.09925,41.113266,0 -74.09374800000001,41.112008,0 -74.086179,41.109958,0 -74.080099,41.105429,0 -74.074553,41.103377,0 -74.067774,41.101676,0 -74.06090500000001,41.099916,0 -74.055497,41.098449,0 -74.05071599999999,41.097277,0 -74.045644,41.096706,0 -74.04077,41.097361,0 -74.03343,41.100273,0 -74.027706,41.102611,0 -74.02546599999999,41.103222,0 -74.022676,41.103717,0 -74.02211,41.103764,0 -74.020861,41.103872,0 -74.019312,41.103918,0 -74.01841,41.103884,0 -74.01558300000001,41.103682,0 -74.013716,41.103524,0 -74.01182300000001,41.10336,0 -74.009646,41.103166,0 -74.007825,41.103001,0 -74.005852,41.102841,0 -74.003559,41.102636,0 -74.00108,41.102424,0 -73.99642900000001,41.101823,0 -73.992361,41.098919,0 -73.99124000000001,41.096265,0 -73.990961,41.092944,0 -73.99055799999999,41.089274,0 -73.989195,41.084943,0 -73.98719199999999,41.081404,0 -73.984757,41.078076,0 -73.982635,41.074627,0 -73.98009500000001,41.068143,0 -73.978371,41.064815,0 -73.9756,41.061912,0 -73.972227,41.05972,0 -73.968739,41.057541,0 -73.964251,41.053956,0 -73.961698,41.05105,0 -73.959613,41.047729,0 -73.958016,41.044384,0 -73.955631,41.041404,0 -73.95374099999999,41.040132,0 -73.953738,41.04013,0 -73.952268,41.03914,0 -73.948526,41.037154,0 -73.944287,41.034642,0 -73.939757,41.029468,0 -73.93651,41.024182,0 -73.934032,41.021582,0 -73.929739,41.018335,0 -73.926824,41.015942,0 -73.92466899999999,41.013229,0 -73.923366,41.010695,0 -73.921487,41.007149,0 -73.91946400000001,41.00419,0 -73.917067,41.001756,0 -73.915041,40.999305,0 -73.914142,40.996127,0 -73.913415,40.991503,0 -73.912351,40.988313,0 -73.912621,40.985116,0 -73.913321,40.978329,0 -73.914996,40.971503,0 -73.91748800000001,40.96579,0 -73.919332,40.96071,0 -73.92115699999999,40.955813,0 -73.922482,40.952317,0 -73.922791,40.948615,0 -73.922314,40.944934,0 -73.925383,40.939173,0 -73.927143,40.934478,0 -73.928753,40.92847,0 -73.930954,40.924394,0 -73.93568000000001,40.919608,0 -73.936121,40.916435,0 -73.93501000000001,40.912815,0 -73.933986,40.90901,0 -73.935496,40.905008,0 -73.937378,40.90113,0 -73.938992,40.897878,0 -73.94077900000001,40.894856,0 -73.944309,40.888811,0 -73.945595,40.885209,0 -73.94892900000001,40.879753,0 -73.950767,40.87547,0 -73.95273,40.871789,0 -73.954358,40.868629,0 -73.95504699999999,40.865394,0 -73.955298,40.865028,0 -73.95528299999999,40.864961,0 -73.955339,40.865023,0 -73.95531,40.865047,0 -73.955292,40.865053,0 -73.955287,40.865054,0 -73.955287,40.865053,0 -73.955293,40.865051,0 -73.955316,40.865042,0 -73.95533,40.865036,0 -73.955332,40.865035,0 -73.955332,40.865035,0 -73.955383,40.864783,0 -73.956962,40.862595,0 -73.96104200000001,40.859679,0 -73.963964,40.861296,0 -73.967714,40.861277,0 -73.97036799999999,40.860498,0 -73.971932,40.859444,0 -73.972255,40.859126,0 -73.97409500000001,40.857364,0 -73.97378000000001,40.856752,0 -73.97246199999999,40.855928,0 -73.971374,40.855053,0 -73.971296,40.855003,0 -73.970617,40.85455,0 -73.96956400000001,40.854037,0 -73.96919699999999,40.85388,0 -73.967437,40.853242,0 -73.96614099999999,40.85366,0 -73.96604499999999,40.853651,0 -73.965012,40.85352,0 -73.961388,40.853256,0 -73.95670300000001,40.852347,0 -73.952607,40.851579,0 -73.947732,40.850635,0 -73.945109,40.850117,0 -73.944264,40.849932,0 -73.94356000000001,40.849826,0 -73.94248399999999,40.849633,0 -73.942172,40.849533,0 -73.941743,40.849464,0 -73.94112300000001,40.849325,0 -73.940945,40.849296,0 -73.939381,40.848943,0 -73.937654,40.8485,0 -73.935959,40.848057,0 -73.932991,40.846731,0 -73.930773,40.84556,0 -73.931557,40.84321,0 -73.932146,40.841018,0 -73.93362000000001,40.838347,0 -73.935221,40.835261,0 -73.935295,40.831846,0 -73.934962,40.828774,0 -73.934557,40.825404,0 -73.934482,40.821877,0 -73.93415400000001,40.817311,0 -73.93452000000001,40.814177,0 -73.93479600000001,40.811766,0 -73.935666,40.810005,0 -73.935913,40.809669,0 -73.93685600000001,40.809944,0 -73.936961,40.809989,0 -73.937372,40.810164,0 -73.9371,40.810617,0 -73.936477,40.811529,0 -73.935142,40.81326,0 -73.93469500000001,40.813878,0 -73.934062,40.814142,0 -73.932846,40.814089,0 -73.932783,40.814093,0 -73.931819,40.813836,0 -73.93165999999999,40.813081,0 -73.931921,40.812532,0 -73.932084,40.812217,0 -73.93219000000001,40.811896,0 -73.931766,40.811191,0 -73.930262,40.81002,0 -73.927999,40.808328,0 -73.92494000000001,40.806903,0 -73.921547,40.805555,0 -73.918449,40.804062,0 -73.917368,40.801333,0 -73.918554,40.799651,0 -73.91998700000001,40.797718,0 -73.922016,40.795447,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark id="1476907178000">
+			<name>Trip to Catskills 10/19/16</name>
+			<TimeSpan>
+				<begin>2016-10-19T15:59:38-04:00</begin>
+				<end>2016-10-19T16:05:33-04:00</end>
+			</TimeSpan>
+			<styleUrl>#place_unknown130</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-73.922016,40.795447,0 -73.92208599999999,40.795398,0 -73.92208599999999,40.795398,0 -73.922269,40.795269,0 -73.92383599999999,40.79309,0 -73.92542,40.791298,0 -73.929743,40.786479,0 -73.927279,40.777641,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark id="1476908287000">
+			<name>Trip to Catskills 10/19/16</name>
+			<TimeSpan>
+				<begin>2016-10-19T16:18:07-04:00</begin>
+				<end>2016-10-19T16:34:47-04:00</end>
+			</TimeSpan>
+			<styleUrl>#place_unknown91</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-73.912487,40.724421,0 -73.91322,40.722923,0 -73.91326700000001,40.722755,0 -73.913386,40.722468,0 -73.91278800000001,40.721299,0 -73.911787,40.720066,0 -73.91162799999999,40.719901,0 -73.91081699999999,40.719027,0 -73.90967000000001,40.717773,0 -73.909227,40.717566,0 -73.909162,40.717556,0 -73.909144,40.717554,0 -73.90911800000001,40.71755,0 -73.909108,40.717549,0 -73.909041,40.71754,0 -73.909029,40.717538,0 -73.908991,40.717533,0 -73.907743,40.717383,0 -73.906385,40.717295,0 -73.906038,40.715797,0 -73.905733,40.714362,0 -73.905563,40.713635,0 -73.90549900000001,40.713351,0 -73.905495,40.713334,0 -73.905483,40.713281,0 -73.90543099999999,40.713053,0 -73.905417,40.71299,0 -73.90541500000001,40.712979,0 -73.90552099999999,40.712899,0 -73.90563,40.712902,0 -73.905749,40.712188,0 -73.90571799999999,40.712119,0 -73.90485200000001,40.710214,0 -73.904292,40.708969,0 -73.90382200000001,40.708117,0 -73.903763,40.708016,0 -73.903998,40.707588,0 -73.90524000000001,40.706382,0 -73.90633200000001,40.70529,0 -73.90749,40.70418,0 -73.90829600000001,40.703387,0 -73.90831300000001,40.70337,0 -73.908599,40.703089,0 -73.910533,40.701189,0 -73.911295,40.700442,0 -73.911734,40.700012,0 -73.91251,40.699212,0 -73.91312499999999,40.698306,0 -73.912195,40.697777,0 -73.911669,40.697621,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark id="1476911796000">
+			<name>Trip to Catskills 10/19/16</name>
+			<TimeSpan>
+				<begin>2016-10-19T17:16:36-04:00</begin>
+				<end>2016-10-19T17:21:40-04:00</end>
+			</TimeSpan>
+			<styleUrl>#place_unknown4</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-73.911669,40.697621,0 -73.911687,40.698148,0 -73.91148800000001,40.698541,0 -73.911776,40.698717,0 -73.91158299999999,40.698973,0 -73.911468,40.699285,0 -73.911412,40.699524,0 -73.911483,40.69966,0 -73.911562,40.699767,0 -73.91156599999999,40.699776,0 -73.911571,40.699781,0 -73.91162199999999,40.699823,0 -73.911824,40.699897,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark id="1476912101000">
+			<name>Trip to Catskills 10/19/16</name>
+			<TimeSpan>
+				<begin>2016-10-19T17:21:41-04:00</begin>
+				<end>2016-10-19T17:53:10-04:00</end>
+			</TimeSpan>
+			<styleUrl>#place_unknown35</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-73.911824,40.699897,0 -73.911902,40.699932,0 -73.911901,40.699931,0 -73.91190400000001,40.699933,0 -73.911912,40.699937,0 -73.911917,40.69994,0 -73.911924,40.699943,0 -73.923363,40.706938,0 -73.932008,40.706266,0 -73.93339899999999,40.706092,0 -73.939965,40.707679,0 -73.940009,40.707792,0 -73.940698,40.712069,0 -73.940793,40.712155,0 -73.940788,40.712154,0 -73.944355,40.714568,0 -73.950682,40.714079,0 -73.950755,40.714107,0 -73.956613,40.717167,0 -73.956918,40.717358,0 -73.95686600000001,40.717329,0 -73.986386,40.740107,0 -73.982089,40.745975,0 -73.975906,40.751722,0 -73.96826400000001,40.762197,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark id="1476913990000">
+			<name>Trip to Catskills 10/19/16</name>
+			<TimeSpan>
+				<begin>2016-10-19T17:53:10-04:00</begin>
+				<end>2016-10-19T18:00:47-04:00</end>
+			</TimeSpan>
+			<styleUrl>#place_unknown98</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-73.96826400000001,40.762197,0 -73.96786299999999,40.762692,0 -73.967761,40.76267,0 -73.967525,40.762682,0 -73.96782,40.762902,0 -73.967933,40.762895,0 -73.968541,40.762976,0 -73.968642,40.763084,0 -73.968581,40.76313,0 -73.96852199999999,40.763122,0 -73.968575,40.763149,0 -73.96877600000001,40.76324,0 -73.969109,40.763435,0 -73.969194,40.763703,0 -73.96866900000001,40.764098,0 -73.968659,40.764394,0 -73.968659,40.764394,0 -73.968659,40.764409,0 -73.968529,40.764508,0 -73.96802200000001,40.764604,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark id="1476921122000">
+			<name>Trip to Catskills 10/19/16</name>
+			<TimeSpan>
+				<begin>2016-10-19T19:52:02-04:00</begin>
+				<end>2016-10-19T19:57:41-04:00</end>
+			</TimeSpan>
+			<styleUrl>#place_unknown108</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-73.96802200000001,40.764604,0 -73.968131,40.764721,0 -73.96812799999999,40.764726,0 -73.96812,40.764734,0 -73.96813899999999,40.764763,0 -73.96818500000001,40.764753,0 -73.968271,40.764717,0 -73.96830799999999,40.764701,0 -73.968193,40.764687,0 -73.967966,40.764603,0 -73.96784700000001,40.764524,0 -73.96764,40.764459,0 -73.96724399999999,40.76432,0 -73.967028,40.764242,0 -73.96692899999999,40.764243,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark id="1476921816000">
+			<name>Trip to Catskills 10/19/16</name>
+			<TimeSpan>
+				<begin>2016-10-19T20:03:36-04:00</begin>
+				<end>2016-10-19T20:08:06-04:00</end>
+			</TimeSpan>
+			<styleUrl>#place_unknown79</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-73.96692899999999,40.764243,0 -73.96692,40.764128,0 -73.966994,40.763905,0 -73.967061,40.763761,0 -73.96722699999999,40.763503,0 -73.96733,40.763383,0 -73.96740200000001,40.763303,0 -73.96750400000001,40.763202,0 -73.967658,40.7631,0 -73.967724,40.76302,0 -73.96797599999999,40.762788,0 -73.96811200000001,40.762617,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark id="1476922087000">
+			<name>Trip to Catskills 10/19/16</name>
+			<TimeSpan>
+				<begin>2016-10-19T20:08:07-04:00</begin>
+				<end>2016-10-19T20:42:20-04:00</end>
+			</TimeSpan>
+			<styleUrl>#place_unknown33</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-73.96811200000001,40.762617,0 -73.968197,40.762536,0 -73.96835,40.762377,0 -73.971718,40.757344,0 -73.971881,40.757124,0 -73.971875,40.757133,0 -73.971909,40.757087,0 -73.975838,40.751751,0 -73.98192899999999,40.746354,0 -73.98215399999999,40.745897,0 -73.984056,40.743454,0 -73.984161,40.74332,0 -73.98419,40.743283,0 -73.986642,40.739886,0 -73.98632000000001,40.739636,0 -73.982944,40.737025,0 -73.956356,40.717034,0 -73.956356,40.717034,0 -73.956369,40.717041,0 -73.95150200000001,40.714195,0 -73.944535,40.714646,0 -73.944115,40.714461,0 -73.944253,40.714556,0 -73.940709,40.7121,0 -73.940636,40.71198,0 -73.940631,40.711998,0 -73.939915,40.707667,0 -73.939914,40.707688,0 -73.933348,40.706072,0 -73.933301,40.706076,0 -73.932012,40.706236,0 -73.91156599999999,40.699679,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark id="1476924141000">
+			<name>Trip to Catskills 10/19/16</name>
+			<TimeSpan>
+				<begin>2016-10-19T20:42:21-04:00</begin>
+				<end>2016-10-19T20:51:53-04:00</end>
+			</TimeSpan>
+			<styleUrl>#place_unknown75</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-73.91156599999999,40.699679,0 -73.911575,40.699735,0 -73.9115,40.699688,0 -73.911447,40.699619,0 -73.91149299999999,40.699322,0 -73.91153799999999,40.699108,0 -73.911619,40.698898,0 -73.911497,40.69872,0 -73.911309,40.698556,0 -73.911075,40.698414,0 -73.911115,40.698235,0 -73.91125700000001,40.698091,0 -73.91142000000001,40.697925,0 -73.911569,40.69776,0 -73.911641,40.697624,0 -73.911613,40.697503,0 -73.911669,40.697517,0 -73.91175699999999,40.697677,0 -73.91190899999999,40.697857,0 -73.91192599999999,40.697871,0 -73.911963,40.697898,0 -73.91196600000001,40.697908,0 -73.91197699999999,40.697906,0 -73.91188,40.697954,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>10/17/16</name>
+		<Placemark id="1476696996000">
+			<name>Trip to Catskills 10/17/16</name>
+			<TimeSpan>
+				<begin>2016-10-17T05:36:36-04:00</begin>
+				<end>2016-10-17T05:38:50-04:00</end>
+			</TimeSpan>
+			<styleUrl>#place_unknown112</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-73.91188,40.697954,0 -73.91334999999999,40.69602,0 -73.913617,40.696039,0 -73.914051,40.696312,0 -73.915589,40.697273,0 -73.91444199999999,40.699237,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark id="1476698431000">
+			<name>Trip to Catskills 10/17/16</name>
+			<TimeSpan>
+				<begin>2016-10-17T06:00:31-04:00</begin>
+				<end>2016-10-17T07:27:18-04:00</end>
+			</TimeSpan>
+			<styleUrl>#place_unknown42</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-73.914841,40.699302,0 -73.919074,40.698609,0 -73.92121400000001,40.69846,0 -73.924705,40.698114,0 -73.926428,40.697948,0 -73.928856,40.697707,0 -73.93120999999999,40.697459,0 -73.93185699999999,40.697359,0 -73.93274099999999,40.697616,0 -73.932819,40.697642,0 -73.933329,40.697917,0 -73.93478500000001,40.698711,0 -73.93637699999999,40.700503,0 -73.93690100000001,40.701693,0 -73.938118,40.703717,0 -73.939262,40.704888,0 -73.9396,40.706242,0 -73.93974799999999,40.70721,0 -73.94004099999999,40.708835,0 -73.940155,40.70958,0 -73.940383,40.710999,0 -73.940416,40.71116,0 -73.940741,40.711921,0 -73.941614,40.711851,0 -73.941878,40.711825,0 -73.944013,40.711611,0 -73.947307,40.711311,0 -73.94828699999999,40.711218,0 -73.949607,40.711099,0 -73.95134299999999,40.710939,0 -73.953394,40.710767,0 -73.954139,40.710707,0 -73.955872,40.710649,0 -73.95760900000001,40.710426,0 -73.96060799999999,40.710283,0 -73.962946,40.710928,0 -73.964046,40.711277,0 -73.96809500000001,40.712464,0 -73.97066,40.713258,0 -73.974926,40.714548,0 -73.97779199999999,40.715398,0 -73.982469,40.716847,0 -73.982804,40.71696,0 -73.98414800000001,40.717374,0 -73.984724,40.717549,0 -73.985576,40.71781,0 -73.985444,40.718442,0 -73.984899,40.719516,0 -73.984229,40.720755,0 -73.984207,40.720773,0 -73.984206,40.720779,0 -73.984206,40.72078,0 -73.98338699999999,40.72125,0 -73.981942,40.720822,0 -73.978999,40.719927,0 -73.97897399999999,40.719916,0 -73.978923,40.7199,0 -73.97733599999999,40.719274,0 -73.97521399999999,40.718749,0 -73.97470199999999,40.719132,0 -73.974572,40.720798,0 -73.97401000000001,40.722948,0 -73.972449,40.725439,0 -73.971695,40.728177,0 -73.973219,40.730763,0 -73.974812,40.735314,0 -73.972905,40.739748,0 -73.97234400000001,40.742154,0 -73.970902,40.744872,0 -73.968733,40.747168,0 -73.96702000000001,40.749222,0 -73.965101,40.751431,0 -73.96204299999999,40.754899,0 -73.96007899999999,40.756897,0 -73.957418,40.760041,0 -73.95526200000001,40.761726,0 -73.951448,40.765773,0 -73.949568,40.768025,0 -73.947232,40.770631,0 -73.94464600000001,40.772993,0 -73.942632,40.775564,0 -73.943445,40.779265,0 -73.944171,40.781746,0 -73.94035,40.785183,0 -73.938441,40.787154,0 -73.93716499999999,40.789623,0 -73.935132,40.791868,0 -73.930348,40.794728,0 -73.929165,40.797166,0 -73.92919000000001,40.799607,0 -73.930038,40.801944,0 -73.92658900000001,40.804702,0 -73.924848,40.807051,0 -73.92718000000001,40.808035,0 -73.930477,40.810339,0 -73.93113,40.813872,0 -73.93082699999999,40.815788,0 -73.930611,40.819606,0 -73.930744,40.821872,0 -73.931039,40.824706,0 -73.93105300000001,40.826783,0 -73.931468,40.828932,0 -73.932069,40.8314,0 -73.931367,40.833989,0 -73.930615,40.836676,0 -73.929553,40.839238,0 -73.92825000000001,40.841724,0 -73.926806,40.844729,0 -73.92474,40.848047,0 -73.921408,40.851691,0 -73.91909699999999,40.854139,0 -73.91730200000001,40.857186,0 -73.915322,40.859833,0 -73.911896,40.862498,0 -73.909263,40.866005,0 -73.90789,40.869225,0 -73.905012,40.875114,0 -73.903873,40.877949,0 -73.90195300000001,40.880348,0 -73.89908200000001,40.883684,0 -73.896681,40.885825,0 -73.891713,40.888362,0 -73.888448,40.889242,0 -73.88585500000001,40.891031,0 -73.883662,40.893235,0 -73.88137500000001,40.89562,0 -73.879049,40.899874,0 -73.87827900000001,40.90433,0 -73.877758,40.907484,0 -73.87446799999999,40.912811,0 -73.872798,40.915406,0 -73.870361,40.917663,0 -73.86722,40.91987,0 -73.863231,40.921342,0 -73.859685,40.923828,0 -73.857078,40.928867,0 -73.856521,40.931918,0 -73.855968,40.934406,0 -73.85550000000001,40.93668,0 -73.855059,40.938963,0 -73.854131,40.939917,0 -73.853472,40.940561,0 -73.85214000000001,40.942657,0 -73.84949500000001,40.946959,0 -73.849712,40.947976,0 -73.851682,40.948954,0 -73.85319,40.951729,0 -73.85230300000001,40.954762,0 -73.850388,40.960476,0 -73.848715,40.964113,0 -73.849295,40.967231,0 -73.848885,40.970727,0 -73.846631,40.973382,0 -73.843867,40.975915,0 -73.841013,40.979309,0 -73.83925000000001,40.982554,0 -73.838725,40.986656,0 -73.838611,40.990347,0 -73.83651399999999,40.993943,0 -73.833983,40.996746,0 -73.83154999999999,40.999431,0 -73.829168,41.004816,0 -73.829201,41.008748,0 -73.829324,41.012359,0 -73.825971,41.016314,0 -73.823131,41.019215,0 -73.820396,41.02481,0 -73.820663,41.028271,0 -73.81948199999999,41.032263,0 -73.81707,41.034996,0 -73.81547999999999,41.041241,0 -73.814965,41.044889,0 -73.81223799999999,41.047819,0 -73.811806,41.048672,0 -73.811804,41.048674,0 -73.809855,41.052521,0 -73.809404,41.05601,0 -73.807529,41.061409,0 -73.806302,41.064568,0 -73.803935,41.069227,0 -73.802266,41.07217,0 -73.800791,41.076118,0 -73.80015400000001,41.081669,0 -73.80111100000001,41.085067,0 -73.802886,41.088879,0 -73.80333899999999,41.092124,0 -73.802413,41.095233,0 -73.79779600000001,41.099338,0 -73.796823,41.104727,0 -73.799303,41.107683,0 -73.802114,41.110446,0 -73.804709,41.113493,0 -73.806184,41.116846,0 -73.80725099999999,41.120409,0 -73.811272,41.126917,0 -73.814347,41.130003,0 -73.815296,41.133664,0 -73.81630199999999,41.137779,0 -73.816885,41.141334,0 -73.815443,41.147108,0 -73.81616699999999,41.152387,0 -73.817407,41.155746,0 -73.81787900000001,41.15981,0 -73.815297,41.164819,0 -73.81387100000001,41.168833,0 -73.811803,41.173754,0 -73.80895700000001,41.17762,0 -73.807354,41.181001,0 -73.80711700000001,41.184786,0 -73.805825,41.19146,0 -73.80693700000001,41.194679,0 -73.807163,41.198254,0 -73.808159,41.204523,0 -73.809448,41.208477,0 -73.8102,41.21485,0 -73.81074,41.218868,0 -73.808224,41.223242,0 -73.807238,41.227072,0 -73.808787,41.230532,0 -73.81188899999999,41.23345,0 -73.812842,41.236903,0 -73.81288000000001,41.239892,0 -73.813937,41.242886,0 -73.813768,41.246012,0 -73.80981199999999,41.25052,0 -73.808048,41.253399,0 -73.807512,41.256406,0 -73.80809000000001,41.259518,0 -73.808739,41.263142,0 -73.807856,41.26635,0 -73.806775,41.27049,0 -73.80851199999999,41.273736,0 -73.81264299999999,41.275622,0 -73.81744999999999,41.277032,0 -73.820053,41.279995,0 -73.819923,41.283272,0 -73.81915600000001,41.287102,0 -73.82028200000001,41.290572,0 -73.821887,41.293544,0 -73.82251100000001,41.297219,0 -73.823846,41.30322,0 -73.824229,41.307011,0 -73.823768,41.310696,0 -73.824626,41.313948,0 -73.826392,41.316885,0 -73.826544,41.320128,0 -73.824387,41.32379,0 -73.819891,41.327538,0 -73.81775500000001,41.330374,0 -73.81762999999999,41.333577,0 -73.815575,41.339187,0 -73.81300899999999,41.341587,0 -73.812422,41.344604,0 -73.811072,41.351063,0 -73.80721800000001,41.356382,0 -73.804686,41.359491,0 -73.802742,41.362785,0 -73.801934,41.366216,0 -73.801061,41.371254,0 -73.799843,41.373873,0 -73.799419,41.374439,0 -73.798406,41.37355,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark id="1476705394000">
+			<name>Trip to Catskills 10/17/16</name>
+			<TimeSpan>
+				<begin>2016-10-17T07:56:34-04:00</begin>
+				<end>2016-10-17T08:16:53-04:00</end>
+			</TimeSpan>
+			<styleUrl>#place_unknown66</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-73.798406,41.37355,0 -73.799449,41.376736,0 -73.79959100000001,41.378815,0 -73.78634700000001,41.406937,0 -73.786346,41.406939,0 -73.78227699999999,41.415579,0 -73.78358400000001,41.417964,0 -73.819153,41.456191,0 -73.818314,41.458517,0 -73.818294,41.458851,0 -73.803032,41.492367,0 -73.80088600000001,41.495396,0 -73.798637,41.497984,0 -73.785864,41.511268,0 -73.78176499999999,41.510427,0 -73.778685,41.509086,0 -73.774362,41.506429,0 -73.773856,41.505361,0 -73.773155,41.504341,0 -73.77273700000001,41.503738,0 -73.772002,41.501953,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark id="1476707971000">
+			<name>Trip to Catskills 10/17/16</name>
+			<TimeSpan>
+				<begin>2016-10-17T08:39:31-04:00</begin>
+				<end>2016-10-17T09:49:54-04:00</end>
+			</TimeSpan>
+			<styleUrl>#place_unknown96</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-73.774646,41.501785,0 -73.772032,41.501935,0 -73.77198799999999,41.501851,0 -73.772064,41.501832,0 -73.772032,41.50179,0 -73.772013,41.501704,0 -73.77183599999999,41.501687,0 -73.77162800000001,41.501698,0 -73.771755,41.502292,0 -73.772769,41.504383,0 -73.773804,41.505327,0 -73.774293,41.506528,0 -73.77598,41.50871,0 -73.777885,41.509009,0 -73.78065700000001,41.509226,0 -73.781515,41.510424,0 -73.782808,41.510803,0 -73.785971,41.511256,0 -73.787217,41.511965,0 -73.787376,41.512088,0 -73.78744399999999,41.51263,0 -73.787426,41.512587,0 -73.787391,41.512579,0 -73.78739899999999,41.512669,0 -73.787099,41.513724,0 -73.785487,41.516802,0 -73.784018,41.518346,0 -73.780609,41.522554,0 -73.77849999999999,41.525584,0 -73.776196,41.527825,0 -73.773268,41.531477,0 -73.771056,41.536183,0 -73.771053,41.538953,0 -73.77251200000001,41.541829,0 -73.77467,41.544517,0 -73.774559,41.547476,0 -73.77529800000001,41.55189,0 -73.777592,41.554431,0 -73.780338,41.557738,0 -73.780646,41.558287,0 -73.780647,41.558289,0 -73.78198999999999,41.560679,0 -73.78228799999999,41.563738,0 -73.781729,41.566915,0 -73.780428,41.57001,0 -73.779377,41.573601,0 -73.778683,41.57763,0 -73.77663200000001,41.580869,0 -73.772229,41.583518,0 -73.767375,41.586129,0 -73.76557,41.589228,0 -73.764387,41.592693,0 -73.763857,41.598476,0 -73.763538,41.601847,0 -73.762388,41.605234,0 -73.76054000000001,41.60831,0 -73.760599,41.611076,0 -73.76137300000001,41.61366,0 -73.762902,41.616152,0 -73.764898,41.618362,0 -73.767398,41.621259,0 -73.772696,41.624701,0 -73.776352,41.626514,0 -73.779944,41.629232,0 -73.781497,41.63196,0 -73.783362,41.637795,0 -73.785546,41.640425,0 -73.787564,41.643216,0 -73.78850300000001,41.646533,0 -73.78992700000001,41.649801,0 -73.79004999999999,41.653225,0 -73.789091,41.656975,0 -73.789726,41.660486,0 -73.79024,41.664146,0 -73.788487,41.67062,0 -73.787093,41.674585,0 -73.78736000000001,41.678491,0 -73.786822,41.681243,0 -73.78584600000001,41.684061,0 -73.78392599999999,41.687942,0 -73.78166899999999,41.692208,0 -73.781705,41.695828,0 -73.782895,41.699014,0 -73.783162,41.702484,0 -73.783192,41.705968,0 -73.782033,41.711427,0 -73.783192,41.714977,0 -73.783845,41.718436,0 -73.781683,41.724362,0 -73.78115800000001,41.727582,0 -73.779048,41.731181,0 -73.777597,41.735,0 -73.77432500000001,41.738806,0 -73.772764,41.744049,0 -73.771998,41.747303,0 -73.768511,41.753082,0 -73.76857200000001,41.756785,0 -73.767636,41.76031,0 -73.767422,41.764821,0 -73.76673200000001,41.769239,0 -73.766564,41.772936,0 -73.768366,41.776504,0 -73.769008,41.780148,0 -73.769414,41.784335,0 -73.77014699999999,41.789941,0 -73.772538,41.793043,0 -73.77292,41.796618,0 -73.76896600000001,41.801946,0 -73.764566,41.808561,0 -73.76474,41.811916,0 -73.765782,41.814452,0 -73.767751,41.817429,0 -73.769538,41.820709,0 -73.77303600000001,41.826112,0 -73.774714,41.829289,0 -73.775413,41.832482,0 -73.776622,41.836026,0 -73.776662,41.839148,0 -73.77572000000001,41.844053,0 -73.77572499999999,41.847359,0 -73.773652,41.850078,0 -73.771146,41.853375,0 -73.770039,41.858772,0 -73.76899400000001,41.86375,0 -73.76866800000001,41.867573,0 -73.76727200000001,41.870678,0 -73.765929,41.874105,0 -73.767338,41.877819,0 -73.76852700000001,41.883526,0 -73.76837,41.890486,0 -73.769417,41.89452,0 -73.76956,41.89802,0 -73.769184,41.901406,0 -73.76947,41.905042,0 -73.768226,41.908882,0 -73.767748,41.91438,0 -73.76717600000001,41.920591,0 -73.765658,41.924718,0 -73.761342,41.928759,0 -73.757811,41.930685,0 -73.755169,41.933942,0 -73.75389,41.937128,0 -73.753428,41.94158,0 -73.752319,41.945564,0 -73.752557,41.951112,0 -73.754639,41.954062,0 -73.754154,41.959069,0 -73.751693,41.961641,0 -73.750843,41.967038,0 -73.75105000000001,41.970197,0 -73.75031199999999,41.973885,0 -73.747542,41.976526,0 -73.744309,41.979026,0 -73.740014,41.984576,0 -73.736772,41.986948,0 -73.73418,41.990405,0 -73.734247,41.994781,0 -73.735973,41.99803,0 -73.738314,42.004772,0 -73.73973100000001,42.008227,0 -73.738603,42.013296,0 -73.735378,42.016463,0 -73.733195,42.022038,0 -73.73304899999999,42.025332,0 -73.73222300000001,42.030691,0 -73.733312,42.034544,0 -73.733811,42.041241,0 -73.73311699999999,42.046343,0 -73.73285,42.04985,0 -73.730779,42.053363,0 -73.729336,42.056851,0 -73.728208,42.06039,0 -73.727216,42.063564,0 -73.72430900000001,42.0687,0 -73.72078500000001,42.070699,0 -73.71659099999999,42.074369,0 -73.71657500000001,42.078108,0 -73.71804299999999,42.081185,0 -73.721243,42.087416,0 -73.721896,42.091228,0 -73.719233,42.096369,0 -73.71765499999999,42.097194,0 -73.716346,42.096212,0 -73.715648,42.095703,0 -73.713987,42.095412,0 -73.712096,42.095846,0 -73.70819299999999,42.094992,0 -73.70566,42.093412,0 -73.70359999999999,42.092423,0 -73.702978,42.09206,0 -73.70159099999999,42.091948,0 -73.701015,42.091696,0 -73.700107,42.091049,0 -73.699575,42.0909,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark id="1476717238000">
+			<name>Trip to Catskills 10/17/16</name>
+			<TimeSpan>
+				<begin>2016-10-17T11:13:58-04:00</begin>
+				<end>2016-10-17T11:20:45-04:00</end>
+			</TimeSpan>
+			<styleUrl>#place_unknown72</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-73.699575,42.0909,0 -73.700823,42.091502,0 -73.701673,42.091963,0 -73.703412,42.092305,0 -73.704978,42.093212,0 -73.707437,42.094414,0 -73.70841,42.095328,0 -73.710341,42.096082,0 -73.712329,42.095818,0 -73.713171,42.094686,0 -73.71340600000001,42.09324,0 -73.714721,42.092084,0 -73.716915,42.091378,0 -73.718346,42.091318,0 -73.719667,42.091239,0 -73.720829,42.09063,0 -73.720225,42.090073,0 -73.71892,42.090524,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark id="1476718166000">
+			<name>Trip to Catskills 10/17/16</name>
+			<TimeSpan>
+				<begin>2016-10-17T11:29:26-04:00</begin>
+				<end>2016-10-17T11:31:56-04:00</end>
+			</TimeSpan>
+			<styleUrl>#place_unknown78</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-73.71892,42.090524,0 -73.71876,42.090515,0 -73.719146,42.090329,0 -73.71937200000001,42.090228,0 -73.71937200000001,42.09022,0 -73.719477,42.090182,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark id="1476718316000">
+			<name>Trip to Catskills 10/17/16</name>
+			<TimeSpan>
+				<begin>2016-10-17T11:31:56-04:00</begin>
+				<end>2016-10-17T12:24:53-04:00</end>
+			</TimeSpan>
+			<styleUrl>#place_unknown68</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-73.719477,42.090182,0 -73.719431,42.090173,0 -73.720894,42.090267,0 -73.719995,42.091126,0 -73.717968,42.091255,0 -73.71528000000001,42.091769,0 -73.71337,42.093259,0 -73.713509,42.095159,0 -73.71526900000001,42.095652,0 -73.716128,42.096144,0 -73.718395,42.097561,0 -73.718176,42.099261,0 -73.717693,42.101946,0 -73.717546,42.104703,0 -73.71567899999999,42.11107,0 -73.715,42.114703,0 -73.714747,42.117038,0 -73.712834,42.118835,0 -73.714434,42.117863,0 -73.716289,42.119232,0 -73.718036,42.120457,0 -73.720759,42.122438,0 -73.72272700000001,42.123866,0 -73.72495600000001,42.125507,0 -73.726969,42.127486,0 -73.72830500000001,42.129939,0 -73.73053400000001,42.134015,0 -73.734055,42.138449,0 -73.737062,42.140591,0 -73.741699,42.143524,0 -73.744075,42.145717,0 -73.74543799999999,42.148387,0 -73.746033,42.151406,0 -73.746318,42.154367,0 -73.746495,42.158226,0 -73.747333,42.160568,0 -73.74997000000001,42.164622,0 -73.75240100000001,42.16698,0 -73.755263,42.169756,0 -73.757346,42.171764,0 -73.758466,42.173917,0 -73.758843,42.177134,0 -73.75890699999999,42.177559,0 -73.759174,42.179208,0 -73.761506,42.182529,0 -73.76382700000001,42.184841,0 -73.766215,42.187221,0 -73.76793600000001,42.188924,0 -73.76832400000001,42.189283,0 -73.769136,42.190149,0 -73.770528,42.191834,0 -73.770545,42.191529,0 -73.769346,42.190241,0 -73.76744600000001,42.188686,0 -73.767211,42.188325,0 -73.767229,42.188308,0 -73.768022,42.189017,0 -73.76844,42.189411,0 -73.769671,42.19068,0 -73.771699,42.192777,0 -73.773922,42.195057,0 -73.776751,42.198102,0 -73.77930499999999,42.200979,0 -73.78464700000001,42.205067,0 -73.787514,42.207049,0 -73.79025300000001,42.207957,0 -73.790992,42.208225,0 -73.79110300000001,42.208264,0 -73.79259999999999,42.208876,0 -73.79501500000001,42.210823,0 -73.797026,42.21344,0 -73.802072,42.218086,0 -73.80721800000001,42.21888,0 -73.811483,42.219127,0 -73.81523300000001,42.219591,0 -73.82304600000001,42.222248,0 -73.82656900000001,42.222799,0 -73.830354,42.221892,0 -73.83335200000001,42.220061,0 -73.837684,42.220355,0 -73.8408,42.221147,0 -73.843707,42.221878,0 -73.846634,42.222597,0 -73.849589,42.2233,0 -73.85317600000001,42.22416,0 -73.855672,42.224863,0 -73.856168,42.224997,0 -73.85616899999999,42.224997,0 -73.85815599999999,42.225532,0 -73.861001,42.226599,0 -73.864953,42.228587,0 -73.86807500000001,42.23059,0 -73.87063499999999,42.232311,0 -73.871618,42.232798,0 -73.87024700000001,42.229935,0 -73.86982999999999,42.22784,0 -73.871044,42.224017,0 -73.871883,42.222178,0 -73.872767,42.220331,0 -73.87417000000001,42.218259,0 -73.875455,42.21726,0 -73.876851,42.216145,0 -73.877493,42.215645,0 -73.87790200000001,42.215379,0 -73.877976,42.215356,0 -73.87887499999999,42.21496,0 -73.88182500000001,42.214614,0 -73.882341,42.214552,0 -73.88401500000001,42.214402,0 -73.88602899999999,42.21421,0 -73.888464,42.213966,0 -73.89066800000001,42.212571,0 -73.89277800000001,42.210699,0 -73.894728,42.208411,0 -73.898067,42.207021,0 -73.901308,42.205465,0 -73.905897,42.202567,0 -73.90976600000001,42.199257,0 -73.91357000000001,42.19754,0 -73.91718400000001,42.198708,0 -73.919895,42.202646,0 -73.923638,42.202206,0 -73.926187,42.200235,0 -73.93026999999999,42.200653,0 -73.933803,42.200245,0 -73.93638799999999,42.198118,0 -73.941337,42.197931,0 -73.94755600000001,42.198067,0 -73.95297600000001,42.198794,0 -73.956495,42.199589,0 -73.959555,42.19949,0 -73.96431,42.197944,0 -73.968242,42.197599,0 -73.970203,42.197245,0 -73.97198,42.196869,0 -73.974,42.196111,0 -73.97743,42.194934,0 -73.981433,42.19424,0 -73.98478400000001,42.192865,0 -73.988321,42.19137,0 -73.991922,42.188625,0 -73.993419,42.185994,0 -73.997001,42.183644,0 -74.00050899999999,42.180991,0 -74.004141,42.17964,0 -74.008346,42.178325,0 -74.01100700000001,42.177182,0 -74.01362500000001,42.176159,0 -74.016282,42.175363,0 -74.016886,42.175346,0 -74.016532,42.17521,0 -74.013137,42.176232,0 -74.013014,42.17617,0 -74.013076,42.176237,0 -74.013076,42.176237,0 -74.01307900000001,42.17624,0 -74.01285300000001,42.176509,0 -74.01020699999999,42.177557,0 -74.004818,42.179326,0 -74.00211400000001,42.180047,0 -74.002017,42.180118,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark id="1476723839000">
+			<name>Trip to Catskills 10/17/16</name>
+			<TimeSpan>
+				<begin>2016-10-17T13:03:59-04:00</begin>
+				<end>2016-10-17T13:44:23-04:00</end>
+			</TimeSpan>
+			<styleUrl>#place_unknown82</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-74.002017,42.180118,0 -74.006083,42.179094,0 -74.00823,42.178409,0 -74.010119,42.17762,0 -74.01225700000001,42.176734,0 -74.017132,42.175106,0 -74.019807,42.174792,0 -74.019865,42.17479,0 -74.021283,42.174941,0 -74.02359300000001,42.17523,0 -74.025963,42.175361,0 -74.02863499999999,42.175614,0 -74.03255400000001,42.17678,0 -74.037015,42.176767,0 -74.04120399999999,42.176137,0 -74.04431099999999,42.176691,0 -74.04745699999999,42.176757,0 -74.050528,42.177759,0 -74.051936,42.177056,0 -74.054981,42.177119,0 -74.057996,42.177736,0 -74.061151,42.180195,0 -74.062887,42.181631,0 -74.06529000000001,42.182758,0 -74.06867200000001,42.184381,0 -74.07102,42.185916,0 -74.071876,42.18817,0 -74.07165000000001,42.189597,0 -74.071163,42.190431,0 -74.070519,42.191039,0 -74.07136199999999,42.191342,0 -74.073579,42.190046,0 -74.07423900000001,42.189802,0 -74.074037,42.189797,0 -74.074039,42.189728,0 -74.074082,42.189771,0 -74.074044,42.189832,0 -74.074181,42.189828,0 -74.075306,42.190443,0 -74.07744700000001,42.191642,0 -74.07951199999999,42.193206,0 -74.08197800000001,42.193565,0 -74.08481,42.194386,0 -74.089043,42.194315,0 -74.091933,42.194315,0 -74.09417500000001,42.195014,0 -74.09660100000001,42.195686,0 -74.10038900000001,42.195327,0 -74.103105,42.195183,0 -74.103925,42.195436,0 -74.10621399999999,42.196282,0 -74.10843,42.196934,0 -74.111012,42.19711,0 -74.11417299999999,42.196663,0 -74.118668,42.195868,0 -74.12103999999999,42.195755,0 -74.12405099999999,42.195611,0 -74.12687699999999,42.195729,0 -74.12825100000001,42.195745,0 -74.131029,42.195757,0 -74.132407,42.19574,0 -74.13386800000001,42.19572,0 -74.135999,42.195672,0 -74.13593299999999,42.194816,0 -74.135898,42.194764,0 -74.135921,42.194751,0 -74.135949,42.194795,0 -74.135964,42.194837,0 -74.13596800000001,42.194859,0 -74.13587699999999,42.194791,0 -74.13590600000001,42.194816,0 -74.135902,42.19484,0 -74.136129,42.195692,0 -74.138172,42.195518,0 -74.140604,42.195357,0 -74.143117,42.195451,0 -74.14466,42.195897,0 -74.14487200000001,42.195741,0 -74.142186,42.195335,0 -74.141358,42.195947,0 -74.14157,42.195608,0 -74.142506,42.195356,0 -74.142443,42.194048,0 -74.142111,42.192738,0 -74.142051,42.192059,0 -74.142068,42.192056,0 -74.142071,42.192024,0 -74.14201199999999,42.191881,0 -74.141998,42.191882,0 -74.142123,42.192435,0 -74.142369,42.193582,0 -74.142619,42.194998,0 -74.142635,42.195321,0 -74.14484899999999,42.195805,0 -74.146929,42.196051,0 -74.149264,42.195728,0 -74.15186300000001,42.195143,0 -74.157099,42.193387,0 -74.16142499999999,42.192294,0 -74.16445400000001,42.191958,0 -74.169545,42.191651,0 -74.173146,42.19194,0 -74.178665,42.193688,0 -74.179931,42.194681,0 -74.182191,42.197035,0 -74.18174500000001,42.196522,0 -74.180168,42.194917,0 -74.179834,42.193701,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark id="1476726689000">
+			<name>Trip to Catskills 10/17/16</name>
+			<TimeSpan>
+				<begin>2016-10-17T13:51:29-04:00</begin>
+				<end>2016-10-17T13:57:38-04:00</end>
+			</TimeSpan>
+			<styleUrl>#place_unknown27</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-74.179834,42.193701,0 -74.179886,42.193671,0 -74.18107500000001,42.193001,0 -74.18477799999999,42.191207,0 -74.18489099999999,42.191171,0 -74.186808,42.190607,0 -74.18887700000001,42.189992,0 -74.191113,42.188427,0 -74.192919,42.186079,0 -74.194807,42.18417,0 -74.19628299999999,42.18259,0 -74.19713900000001,42.180285,0 -74.198341,42.177779,0 -74.198633,42.17651,0 -74.198643,42.176498,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark id="1476742293000">
+			<name>Trip to Catskills 10/17/16</name>
+			<TimeSpan>
+				<begin>2016-10-17T18:11:33-04:00</begin>
+				<end>2016-10-17T18:36:27-04:00</end>
+			</TimeSpan>
+			<styleUrl>#place_unknown19</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-74.198643,42.176498,0 -74.202782,42.160352,0 -74.204204,42.158825,0 -74.205201,42.156998,0 -74.205705,42.155164,0 -74.206884,42.152863,0 -74.20811999999999,42.150831,0 -74.20931,42.14833,0 -74.210093,42.146264,0 -74.212147,42.142433,0 -74.213368,42.140198,0 -74.217921,42.138054,0 -74.221265,42.136909,0 -74.224047,42.135931,0 -74.227729,42.134856,0 -74.231467,42.133762,0 -74.23623600000001,42.132389,0 -74.239633,42.131215,0 -74.243115,42.130719,0 -74.24990099999999,42.130464,0 -74.253722,42.130909,0 -74.25771,42.130976,0 -74.262753,42.12941,0 -74.265236,42.127494,0 -74.267067,42.124816,0 -74.270118,42.120751,0 -74.27373400000001,42.118573,0 -74.27668799999999,42.116334,0 -74.27985200000001,42.113651,0 -74.281808,42.11099,0 -74.28319000000001,42.108848,0 -74.285827,42.107644,0 -74.288477,42.106863,0 -74.291614,42.106023,0 -74.29649000000001,42.103832,0 -74.29947199999999,42.102374,0 -74.301463,42.101152,0 -74.30350300000001,42.101849,0 -74.306546,42.101325,0 -74.308402,42.101985,0 -74.31057300000001,42.101982,0 -74.312888,42.101667,0 -74.31455699999999,42.100239,0 -74.31623,42.09856,0 -74.31856999999999,42.09577,0 -74.31912199999999,42.09263,0 -74.320095,42.090716,0 -74.319907,42.088794,0 -74.318287,42.087942,0 -74.317667,42.085225,0 -74.316489,42.084079,0 -74.31548100000001,42.0834,0 -74.315399,42.083346,0 -74.315367,42.083318,0 -74.315367,42.083318,0 -74.315232,42.083136,0 -74.315292,42.083212,0 -74.31538000000001,42.083261,0 -74.314729,42.083187,0 -74.31393,42.083324,0 -74.31259,42.083589,0 -74.311019,42.083753,0 -74.31068000000001,42.08382,0 -74.31165900000001,42.083735,0 -74.313644,42.083413,0 -74.314251,42.083321,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark id="1476744008000">
+			<name>Trip to Catskills 10/17/16</name>
+			<TimeSpan>
+				<begin>2016-10-17T18:40:08-04:00</begin>
+				<end>2016-10-17T18:57:27-04:00</end>
+			</TimeSpan>
+			<styleUrl>#place_unknown64</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-74.314251,42.083321,0 -74.31398400000001,42.083408,0 -74.313835,42.083454,0 -74.313802,42.083426,0 -74.313712,42.083345,0 -74.31374,42.083287,0 -74.31408500000001,42.083226,0 -74.31415200000001,42.083191,0 -74.31644799999999,42.083947,0 -74.31665,42.084102,0 -74.316728,42.084179,0 -74.316793,42.084426,0 -74.31657300000001,42.084236,0 -74.316436,42.084155,0 -74.314415,42.083363,0 -74.313749,42.083269,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark id="1476752357000">
+			<name>Trip to Catskills 10/17/16</name>
+			<TimeSpan>
+				<begin>2016-10-17T20:59:17-04:00</begin>
+				<end>2016-10-17T21:02:23-04:00</end>
+			</TimeSpan>
+			<styleUrl>#place_unknown74</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-74.313749,42.083269,0 -74.31434,42.083504,0 -74.31454100000001,42.084305,0 -74.314691,42.084778,0 -74.314691,42.084778,0 -74.314841,42.085252,0 -74.315478,42.086963,0 -74.314696,42.085971,0 -74.31678599999999,42.085572,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>10/18/16</name>
+		<Placemark id="1476791467000">
+			<name>Trip to Catskills 10/18/16</name>
+			<TimeSpan>
+				<begin>2016-10-18T07:51:07-04:00</begin>
+				<end>2016-10-18T08:22:58-04:00</end>
+			</TimeSpan>
+			<styleUrl>#place_unknown103</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-74.31678599999999,42.085572,0 -74.31768099999999,42.085275,0 -74.316879,42.084388,0 -74.31693300000001,42.08156,0 -74.316948,42.081615,0 -74.318225,42.081197,0 -74.320505,42.081316,0 -74.323424,42.082124,0 -74.328717,42.084277,0 -74.331097,42.085449,0 -74.33252400000001,42.087373,0 -74.332872,42.089937,0 -74.333821,42.092517,0 -74.33636799999999,42.094449,0 -74.338965,42.096208,0 -74.34194700000001,42.098403,0 -74.345309,42.100935,0 -74.346864,42.102253,0 -74.34686499999999,42.102254,0 -74.34810899999999,42.103309,0 -74.350634,42.105698,0 -74.35288300000001,42.108064,0 -74.355108,42.110461,0 -74.35799,42.112259,0 -74.36084200000001,42.113783,0 -74.364077,42.114769,0 -74.36904300000001,42.116077,0 -74.373386,42.117366,0 -74.377096,42.117845,0 -74.38072699999999,42.118165,0 -74.384266,42.118464,0 -74.387674,42.118789,0 -74.390762,42.119206,0 -74.393108,42.119392,0 -74.39492900000001,42.119965,0 -74.39688700000001,42.120702,0 -74.398607,42.12136,0 -74.399615,42.12219,0 -74.400431,42.123346,0 -74.40136699999999,42.125015,0 -74.402894,42.127259,0 -74.405723,42.130155,0 -74.406986,42.133796,0 -74.408055,42.136515,0 -74.408483,42.139197,0 -74.408259,42.143521,0 -74.411445,42.147244,0 -74.41286599999999,42.15003,0 -74.413568,42.153424,0 -74.412532,42.15617,0 -74.40841,42.159657,0 -74.408402,42.162509,0 -74.409356,42.165249,0 -74.40980999999999,42.168359,0 -74.41073900000001,42.171941,0 -74.412826,42.175537,0 -74.41459999999999,42.178326,0 -74.41575899999999,42.181024,0 -74.414823,42.183766,0 -74.41217399999999,42.188013,0 -74.407434,42.192741,0 -74.403153,42.197561,0 -74.39929100000001,42.201644,0 -74.396154,42.204426,0 -74.390742,42.206895,0 -74.388037,42.209772,0 -74.386585,42.212285,0 -74.385891,42.213292,0 -74.385898,42.213306,0 -74.385885,42.213295,0 -74.385847,42.213296,0 -74.384843,42.214489,0 -74.383608,42.216963,0 -74.38593899999999,42.222041,0 -74.38749,42.225131,0 -74.389659,42.227878,0 -74.39202899999999,42.230573,0 -74.391718,42.233618,0 -74.387649,42.238053,0 -74.38555,42.241004,0 -74.381894,42.244857,0 -74.37856100000001,42.245414,0 -74.375637,42.24453,0 -74.37311699999999,42.242925,0 -74.372728,42.242535,0 -74.36931199999999,42.24047,0 -74.366654,42.239658,0 -74.364407,42.240247,0 -74.362325,42.239722,0 -74.36067,42.239949,0 -74.359758,42.240616,0 -74.35954,42.24079,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark id="1476798838000">
+			<name>Trip to Catskills 10/18/16</name>
+			<TimeSpan>
+				<begin>2016-10-18T09:53:58-04:00</begin>
+				<end>2016-10-18T09:57:05-04:00</end>
+			</TimeSpan>
+			<styleUrl>#place_unknown126</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-74.35954,42.24079,0 -74.35892699999999,42.238973,0 -74.356467,42.238317,0 -74.353948,42.238099,0 -74.351241,42.237888,0 -74.34819,42.237662,0 -74.344629,42.237999,0 -74.342125,42.238833,0 -74.339876,42.240269,0 -74.33639599999999,42.242759,0 -74.332948,42.243394,0 -74.32978799999999,42.242696,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark id="1476800371000">
+			<name>Trip to Catskills 10/18/16</name>
+			<TimeSpan>
+				<begin>2016-10-18T10:19:31-04:00</begin>
+				<end>2016-10-18T10:23:11-04:00</end>
+			</TimeSpan>
+			<styleUrl>#place_unknown48</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-74.32978799999999,42.242696,0 -74.324496,42.242618,0 -74.320887,42.239021,0 -74.30113299999999,42.232598,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark id="1476801181000">
+			<name>Trip to Catskills 10/18/16</name>
+			<TimeSpan>
+				<begin>2016-10-18T10:33:01-04:00</begin>
+				<end>2016-10-18T10:37:43-04:00</end>
+			</TimeSpan>
+			<styleUrl>#place_unknown28</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-74.30113299999999,42.232598,0 -74.303219,42.234099,0 -74.307642,42.234551,0 -74.310513,42.23444,0 -74.312668,42.234986,0 -74.315106,42.235805,0 -74.316057,42.235941,0 -74.316029,42.236044,0 -74.31606100000001,42.235971,0 -74.316121,42.235363,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark id="1476803027000">
+			<name>Trip to Catskills 10/18/16</name>
+			<TimeSpan>
+				<begin>2016-10-18T11:03:47-04:00</begin>
+				<end>2016-10-18T11:12:36-04:00</end>
+			</TimeSpan>
+			<styleUrl>#place_unknown128</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-74.31588600000001,42.233313,0 -74.315656,42.236032,0 -74.315738,42.236002,0 -74.31575100000001,42.235999,0 -74.31575599999999,42.236031,0 -74.315746,42.236009,0 -74.315749,42.23599,0 -74.315753,42.235958,0 -74.31573299999999,42.235918,0 -74.313451,42.235218,0 -74.31116400000001,42.234501,0 -74.30582800000001,42.234645,0 -74.30275,42.233769,0 -74.298089,42.231259,0 -74.294155,42.230812,0 -74.290521,42.23091,0 -74.287137,42.229949,0 -74.28432100000001,42.228167,0 -74.284525,42.227805,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark id="1476805908000">
+			<name>Trip to Catskills 10/18/16</name>
+			<TimeSpan>
+				<begin>2016-10-18T11:51:48-04:00</begin>
+				<end>2016-10-18T12:00:51-04:00</end>
+			</TimeSpan>
+			<styleUrl>#place_unknown114</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-74.284525,42.227805,0 -74.28371300000001,42.22842,0 -74.281252,42.227982,0 -74.27856300000001,42.227837,0 -74.275688,42.227969,0 -74.272161,42.227799,0 -74.26591500000001,42.224928,0 -74.260946,42.223854,0 -74.255618,42.223833,0 -74.252788,42.223021,0 -74.25037399999999,42.221303,0 -74.246503,42.21849,0 -74.24369900000001,42.217179,0 -74.237949,42.215902,0 -74.233386,42.216149,0 -74.23075400000001,42.21635,0 -74.22735900000001,42.216467,0 -74.224172,42.216072,0 -74.221034,42.214894,0 -74.218272,42.213021,0 -74.217056,42.212132,0 -74.215324,42.210908,0 -74.213325,42.209574,0 -74.21084399999999,42.208666,0 -74.208555,42.208072,0 -74.20855400000001,42.208072,0 -74.207409,42.207775,0 -74.207174,42.207818,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark id="1476807051000">
+			<name>Trip to Catskills 10/18/16</name>
+			<TimeSpan>
+				<begin>2016-10-18T12:10:51-04:00</begin>
+				<end>2016-10-18T12:22:40-04:00</end>
+			</TimeSpan>
+			<styleUrl>#place_unknown11</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-74.207174,42.207818,0 -74.207981,42.20729,0 -74.208662,42.206313,0 -74.210007,42.205312,0 -74.210657,42.204974,0 -74.210221,42.204756,0 -74.20984300000001,42.204735,0 -74.20925,42.205482,0 -74.209245,42.205485,0 -74.21072100000001,42.205009,0 -74.209125,42.2055,0 -74.209098,42.205487,0 -74.20895,42.205418,0 -74.209368,42.205245,0 -74.208827,42.205969,0 -74.20760300000001,42.207679,0 -74.206732,42.207403,0 -74.204847,42.206391,0 -74.202473,42.205139,0 -74.198658,42.203147,0 -74.195989,42.201839,0 -74.193145,42.200826,0 -74.190099,42.200126,0 -74.187032,42.199105,0 -74.183583,42.197702,0 -74.179318,42.194034,0 -74.18014599999999,42.193533,0 -74.18077599999999,42.19324,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark id="1476811546000">
+			<name>Trip to Catskills 10/18/16</name>
+			<TimeSpan>
+				<begin>2016-10-18T13:25:46-04:00</begin>
+				<end>2016-10-18T13:32:07-04:00</end>
+			</TimeSpan>
+			<styleUrl>#place_unknown61</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-74.183443,42.192416,0 -74.184663,42.19229,0 -74.18598,42.191438,0 -74.187057,42.190487,0 -74.189077,42.189934,0 -74.19140299999999,42.187707,0 -74.194324,42.184578,0 -74.19614,42.182638,0 -74.19721800000001,42.18005,0 -74.198747,42.175858,0 -74.199249,42.173789,0 -74.199112,42.174131,0 -74.19862999999999,42.176446,0 -74.198593,42.176488,0 -74.198593,42.176488,0 -74.198593,42.176488,0 -74.198593,42.176488,0 -74.198593,42.176488,0 -74.198621,42.176504,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark id="1476811927000">
+			<name>Trip to Catskills 10/18/16</name>
+			<TimeSpan>
+				<begin>2016-10-18T13:32:07-04:00</begin>
+				<end>2016-10-18T13:34:40-04:00</end>
+			</TimeSpan>
+			<styleUrl>#place_unknown9</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-74.198621,42.176504,0 -74.19862999999999,42.176509,0 -74.19862500000001,42.176511,0 -74.198643,42.176498,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark id="1476813940000">
+			<name>Trip to Catskills 10/18/16</name>
+			<TimeSpan>
+				<begin>2016-10-18T14:05:40-04:00</begin>
+				<end>2016-10-18T14:13:56-04:00</end>
+			</TimeSpan>
+			<styleUrl>#place_unknown81</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-74.198643,42.176498,0 -74.198628,42.176274,0 -74.199141,42.173852,0 -74.199833,42.169834,0 -74.200329,42.167951,0 -74.201255,42.165715,0 -74.20238500000001,42.161824,0 -74.202857,42.160022,0 -74.204258,42.158653,0 -74.205221,42.156882,0 -74.20582,42.154969,0 -74.20715199999999,42.152265,0 -74.208878,42.149285,0 -74.210139,42.146208,0 -74.21214999999999,42.142126,0 -74.216053,42.138807,0 -74.220405,42.137144,0 -74.224147,42.135848,0 -74.22929000000001,42.134245,0 -74.23287600000001,42.133501,0 -74.237286,42.132086,0 -74.24031700000001,42.130928,0 -74.24368800000001,42.130678,0 -74.247788,42.130495,0 -74.251729,42.13038,0 -74.25375699999999,42.130867,0 -74.25355,42.131048,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark id="1476815283000">
+			<name>Trip to Catskills 10/18/16</name>
+			<TimeSpan>
+				<begin>2016-10-18T14:28:03-04:00</begin>
+				<end>2016-10-18T14:40:57-04:00</end>
+			</TimeSpan>
+			<styleUrl>#place_unknown0</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-74.25355,42.131048,0 -74.25461799999999,42.131094,0 -74.257001,42.131139,0 -74.259872,42.130356,0 -74.262342,42.129546,0 -74.264517,42.128352,0 -74.265552,42.126871,0 -74.266982,42.124959,0 -74.26829600000001,42.122579,0 -74.27036,42.120485,0 -74.273135,42.118713,0 -74.276713,42.116349,0 -74.280012,42.113494,0 -74.282465,42.110139,0 -74.283328,42.108619,0 -74.285731,42.107634,0 -74.28887899999999,42.106733,0 -74.289914,42.107024,0 -74.28876099999999,42.107894,0 -74.288498,42.10801,0 -74.288449,42.107831,0 -74.288591,42.107618,0 -74.288899,42.107572,0 -74.28981400000001,42.107228,0 -74.289756,42.106497,0 -74.28840099999999,42.106872,0 -74.284542,42.107973,0 -74.282946,42.1092,0 -74.281846,42.11088,0 -74.28099,42.111884,0 -74.28001399999999,42.113479,0 -74.278487,42.114612,0 -74.278238,42.114762,0 -74.277801,42.115121,0 -74.277373,42.115444,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark id="1476816373000">
+			<name>Trip to Catskills 10/18/16</name>
+			<TimeSpan>
+				<begin>2016-10-18T14:46:13-04:00</begin>
+				<end>2016-10-18T14:50:04-04:00</end>
+			</TimeSpan>
+			<styleUrl>#place_unknown122</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-74.277373,42.115444,0 -74.2773,42.11551,0 -74.27569800000001,42.117488,0 -74.272263,42.119082,0 -74.270245,42.120594,0 -74.267849,42.123164,0 -74.266936,42.125134,0 -74.265563,42.126883,0 -74.26437799999999,42.128512,0 -74.261653,42.12973,0 -74.258966,42.130598,0 -74.256125,42.131173,0 -74.253974,42.130871,0 -74.25355,42.131048,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark id="1476819544000">
+			<name>Trip to Catskills 10/18/16</name>
+			<TimeSpan>
+				<begin>2016-10-18T15:39:04-04:00</begin>
+				<end>2016-10-18T15:53:31-04:00</end>
+			</TimeSpan>
+			<styleUrl>#place_unknown100</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-74.25355,42.131048,0 -74.254903,42.131164,0 -74.255398,42.131188,0 -74.257836,42.1309,0 -74.26284200000001,42.129337,0 -74.264881,42.127915,0 -74.266408,42.125671,0 -74.267918,42.122991,0 -74.27294500000001,42.118806,0 -74.27639600000001,42.116691,0 -74.27921000000001,42.114109,0 -74.281987,42.11072,0 -74.283209,42.108704,0 -74.285325,42.107724,0 -74.292041,42.10597,0 -74.296553,42.10369,0 -74.29817,42.102492,0 -74.30023,42.101836,0 -74.301794,42.101213,0 -74.303493,42.101795,0 -74.30542199999999,42.101045,0 -74.307621,42.10186,0 -74.311134,42.101957,0 -74.31402199999999,42.100798,0 -74.316253,42.098585,0 -74.31895,42.095123,0 -74.319222,42.092948,0 -74.32058600000001,42.089331,0 -74.319344,42.088472,0 -74.31846299999999,42.088093,0 -74.317932,42.086552,0 -74.31750099999999,42.085309,0 -74.31760800000001,42.08534,0 -74.31793399999999,42.086243,0 -74.318645,42.088238,0 -74.32023599999999,42.08901,0 -74.318996,42.092062,0 -74.31920700000001,42.092961,0 -74.31921,42.092967,0 -74.31919499999999,42.093048,0 -74.319198,42.093771,0 -74.318859,42.095401,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark id="1476821282000">
+			<name>Trip to Catskills 10/18/16</name>
+			<TimeSpan>
+				<begin>2016-10-18T16:08:02-04:00</begin>
+				<end>2016-10-18T16:28:42-04:00</end>
+			</TimeSpan>
+			<styleUrl>#place_unknown30</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-74.318859,42.095401,0 -74.319298,42.092853,0 -74.319873,42.090602,0 -74.317793,42.087639,0 -74.31552499999999,42.083608,0 -74.314883,42.08323,0 -74.314635,42.083272,0 -74.313906,42.083244,0 -74.313766,42.083131,0 -74.313785,42.083109,0 -74.313801,42.083121,0 -74.313812,42.083126,0 -74.31381399999999,42.083126,0 -74.313796,42.083128,0 -74.31622,42.082495,0 -74.31863,42.081204,0 -74.318879,42.081261,0 -74.327366,42.083591,0 -74.33059400000001,42.085186,0 -74.333668,42.090537,0 -74.335919,42.093983,0 -74.343081,42.099194,0 -74.347476,42.102744,0 -74.35629400000001,42.11124,0 -74.360286,42.113549,0 -74.369182,42.116119,0 -74.372612,42.117169,0 -74.376638,42.117764,0 -74.376198,42.117714,0 -74.376251,42.117719,0 -74.376186,42.117711,0 -74.376186,42.117711,0 -74.376186,42.117711,0 -74.376186,42.117711,0 -74.376186,42.117711,0 -74.376186,42.117711,0 -74.376186,42.117711,0 -74.376186,42.117711,0 -74.376186,42.117711,0 -74.376186,42.117711,0 -74.376186,42.117711,0 -74.374988,42.117568,0 -74.369535,42.116166,0 -74.36664500000001,42.115328,0 -74.361761,42.114202,0 -74.357685,42.112044,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark id="1476823708000">
+			<name>Trip to Catskills 10/18/16</name>
+			<TimeSpan>
+				<begin>2016-10-18T16:48:28-04:00</begin>
+				<end>2016-10-18T17:01:10-04:00</end>
+			</TimeSpan>
+			<styleUrl>#place_unknown86</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-74.357685,42.112044,0 -74.357654,42.112042,0 -74.359177,42.113005,0 -74.361107,42.113906,0 -74.364744,42.114858,0 -74.369716,42.116285,0 -74.37701199999999,42.117781,0 -74.37861599999999,42.11794,0 -74.382695,42.118316,0 -74.390843,42.119173,0 -74.391408,42.119389,0 -74.387764,42.118745,0 -74.384106,42.118367,0 -74.381717,42.118122,0 -74.379732,42.116823,0 -74.381558,42.112613,0 -74.38331100000001,42.11009,0 -74.391612,42.097084,0 -74.391409,42.095681,0 -74.390631,42.096738,0 -74.39017800000001,42.097227,0 -74.390174,42.097176,0 -74.390084,42.097236,0 -74.390089,42.097237,0 -74.39008200000001,42.097206,0 -74.39025599999999,42.09671,0 -74.39025599999999,42.09671,0 -74.390289,42.096616,0 -74.390495,42.095343,0 -74.390241,42.094306,0 -74.390276,42.094391,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark id="1476825515000">
+			<name>Trip to Catskills 10/18/16</name>
+			<TimeSpan>
+				<begin>2016-10-18T17:18:35-04:00</begin>
+				<end>2016-10-18T18:32:12-04:00</end>
+			</TimeSpan>
+			<styleUrl>#place_unknown89</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-74.390276,42.094391,0 -74.390175,42.094857,0 -74.390743,42.095787,0 -74.391265,42.0961,0 -74.386319,42.103981,0 -74.382891,42.110018,0 -74.381488,42.112908,0 -74.379913,42.116223,0 -74.38083399999999,42.117417,0 -74.38018700000001,42.117807,0 -74.380067,42.117848,0 -74.380286,42.117945,0 -74.38032699999999,42.118044,0 -74.38030999999999,42.11806,0 -74.380454,42.118077,0 -74.376469,42.117739,0 -74.369339,42.116201,0 -74.36480400000001,42.114866,0 -74.35942,42.113236,0 -74.355076,42.110267,0 -74.345214,42.100837,0 -74.34227,42.09859,0 -74.33566500000001,42.093928,0 -74.33316000000001,42.091273,0 -74.328138,42.083592,0 -74.318584,42.081187,0 -74.318309,42.081231,0 -74.31678599999999,42.082038,0 -74.318292,42.081335,0 -74.311835,42.080314,0 -74.30845100000001,42.07853,0 -74.307463,42.071012,0 -74.306597,42.062485,0 -74.30468500000001,42.059399,0 -74.30098200000001,42.057205,0 -74.296696,42.055261,0 -74.29202600000001,42.052676,0 -74.289383,42.050707,0 -74.286537,42.047374,0 -74.28370099999999,42.04408,0 -74.281097,42.041507,0 -74.27850100000001,42.039552,0 -74.279078,42.041616,0 -74.278327,42.043598,0 -74.276408,42.045419,0 -74.274829,42.046302,0 -74.273205,42.046698,0 -74.270567,42.047456,0 -74.27026100000001,42.047579,0 -74.273054,42.046739,0 -74.27537100000001,42.046241,0 -74.275887,42.046146,0 -74.276174,42.045845,0 -74.276693,42.045252,0 -74.277717,42.04457,0 -74.27771300000001,42.044546,0 -74.277027,42.045022,0 -74.275223,42.044954,0 -74.273101,42.042817,0 -74.27116700000001,42.041034,0 -74.269425,42.038897,0 -74.268862,42.037686,0 -74.26772200000001,42.034704,0 -74.26590899999999,42.032635,0 -74.26400200000001,42.029988,0 -74.26208800000001,42.026305,0 -74.25611600000001,42.024696,0 -74.25265,42.02505,0 -74.248783,42.026123,0 -74.242533,42.027311,0 -74.237533,42.027757,0 -74.233352,42.027553,0 -74.22918300000001,42.028029,0 -74.22536700000001,42.028537,0 -74.218249,42.029392,0 -74.21408,42.028749,0 -74.209716,42.027913,0 -74.203479,42.026849,0 -74.19712300000001,42.02543,0 -74.19529799999999,42.02463,0 -74.19299700000001,42.023574,0 -74.189443,42.020125,0 -74.18570699999999,42.017713,0 -74.180739,42.01806,0 -74.177092,42.017891,0 -74.174339,42.016553,0 -74.17012800000001,42.012806,0 -74.167867,42.010567,0 -74.164884,42.009658,0 -74.161053,42.008435,0 -74.158964,42.007476,0 -74.157473,42.005764,0 -74.153671,42.006939,0 -74.15195,42.006942,0 -74.14919999999999,42.007292,0 -74.14718000000001,42.00671,0 -74.145752,42.006262,0 -74.144024,42.004928,0 -74.144189,42.004843,0 -74.144368,42.005207,0 -74.146176,42.006474,0 -74.14615000000001,42.008227,0 -74.144544,42.009108,0 -74.145416,42.008938,0 -74.14611100000001,42.008088,0 -74.14611100000001,42.008088,0 -74.14611100000001,42.008088,0 -74.14554200000001,42.007243,0 -74.145984,42.006878,0 -74.14598700000001,42.006879,0 -74.146868,42.006709,0 -74.148841,42.007273,0 -74.152697,42.007073,0 -74.155175,42.006489,0 -74.15741,42.005795,0 -74.158526,42.006924,0 -74.15905100000001,42.005394,0 -74.16056,42.004463,0 -74.16105500000001,42.004306,0 -74.16200000000001,42.004081,0 -74.163506,42.003302,0 -74.165581,42.001768,0 -74.16839400000001,42.000047,0 -74.16736899999999,41.997851,0 -74.166984,41.995758,0 -74.16761099999999,41.99433,0 -74.167846,41.993723,0 -74.167599,41.993123,0 -74.167599,41.993103,0 -74.16703699999999,41.992543,0 -74.165729,41.992739,0 -74.16178100000001,41.99337,0 -74.160156,41.992963,0 -74.15919100000001,41.993154,0 -74.15678200000001,41.994416,0 -74.153526,41.996772,0 -74.151808,41.998815,0 -74.15156399999999,41.999294,0 -74.150808,42.000751,0 -74.148534,42.001349,0 -74.14530499999999,42.001188,0 -74.141323,42.001647,0 -74.140191,42.001176,0 -74.14039800000001,42.002215,0 -74.139808,42.003587,0 -74.139376,42.00489,0 -74.139318,42.005148,0 -74.139309,42.005182,0 -74.139089,42.006266,0 -74.138502,42.007013,0 -74.138217,42.008548,0 -74.137846,42.009638,0 -74.138002,42.010157,0 -74.137742,42.010641,0 -74.138307,42.011653,0 -74.137778,42.012443,0 -74.13810700000001,42.012285,0 -74.13866,42.013042,0 -74.139223,42.013708,0 -74.14071,42.013763,0 -74.140902,42.013742,0 -74.139039,42.013642,0 -74.138054,42.012243,0 -74.13767300000001,42.012568,0 -74.136815,42.014905,0 -74.13497099999999,42.01783,0 -74.133072,42.020125,0 -74.13141,42.021327,0 -74.129248,42.022122,0 -74.1275,42.022311,0 -74.12643,42.02549,0 -74.125812,42.028027,0 -74.124501,42.031658,0 -74.125057,42.033325,0 -74.125019,42.034415,0 -74.12274600000001,42.035444,0 -74.122754,42.035442,0 -74.121281,42.035859,0 -74.11931199999999,42.036894,0 -74.11814,42.036788,0 -74.116468,42.036667,0 -74.114643,42.037038,0 -74.11295,42.036793,0 -74.111244,42.036513,0 -74.1108,42.037053,0 -74.11200700000001,42.03781,0 -74.114552,42.039142,0 -74.116455,42.040152,0 -74.117999,42.040929,0 -74.11923,42.040597,0 -74.12026400000001,42.040397,0 -74.12155199999999,42.04033,0 -74.12181699999999,42.039865,0 -74.122472,42.039279,0 -74.12255,42.039382,0 -74.121813,42.039992,0 -74.121213,42.040348,0 -74.119867,42.040415,0 -74.119034,42.040685,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark id="1476837124000">
+			<name>Trip to Catskills 10/18/16</name>
+			<TimeSpan>
+				<begin>2016-10-18T20:32:04-04:00</begin>
+				<end>2016-10-18T20:34:34-04:00</end>
+			</TimeSpan>
+			<styleUrl>#place_unknown80</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-74.119902,42.040389,0 -74.119159,42.040633,0 -74.11917699999999,42.040632,0 -74.119199,42.040628,0 -74.119243,42.040612,0 -74.119038,42.040642,0 -74.119035,42.040645,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark id="1476837274000">
+			<name>Trip to Catskills 10/18/16</name>
+			<TimeSpan>
+				<begin>2016-10-18T20:34:34-04:00</begin>
+				<end>2016-10-18T20:48:13-04:00</end>
+			</TimeSpan>
+			<styleUrl>#place_unknown115</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-74.119035,42.040645,0 -74.119066,42.040653,0 -74.119096,42.040664,0 -74.119119,42.040673,0 -74.119142,42.04068,0 -74.119167,42.040686,0 -74.11918900000001,42.040689,0 -74.11948099999999,42.04059,0 -74.12063000000001,42.040422,0 -74.122784,42.040456,0 -74.124674,42.040386,0 -74.126352,42.040437,0 -74.128146,42.040542,0 -74.129238,42.041087,0 -74.12947200000001,42.041212,0 -74.129336,42.041448,0 -74.12950600000001,42.041595,0 -74.130005,42.041569,0 -74.128762,42.040763,0 -74.12639400000001,42.04047,0 -74.124242,42.04041,0 -74.122642,42.04045,0 -74.1221,42.041552,0 -74.12342700000001,42.042255,0 -74.124279,42.042742,0 -74.124261,42.042479,0 -74.123992,42.042421,0 -74.12366299999999,42.042113,0 -74.12392199999999,42.042013,0 -74.124729,42.041482,0 -74.125334,42.040821,0 -74.12530700000001,42.040481,0 -74.123825,42.040351,0 -74.12209799999999,42.040793,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

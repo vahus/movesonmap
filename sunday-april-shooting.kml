@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>sunday-april-shooting</name>
+    <description/>
+    <Style id="icon-123-nodesc-normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/123-red-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-123-nodesc-highlight">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/123-red-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-123-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-123-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-123-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="line-FFFF8D-5000-normal">
+      <LineStyle>
+        <color>ff8dffff</color>
+        <width>5</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-FFFF8D-5000-highlight">
+      <LineStyle>
+        <color>ff8dffff</color>
+        <width>7.5</width>
+      </LineStyle>
+    </Style>
+    <StyleMap id="line-FFFF8D-5000">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-FFFF8D-5000-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-FFFF8D-5000-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>sunday-april-shooting</name>
+      <Placemark>
+        <name>20180412 - Seg #18 - 47 pts</name>
+        <description><![CDATA[Statistics computed from imported data<br><br>Thursday, April 12, 2018 6:46 PM CEST<br>Distance: 1.4 miles<br>Duration: 16 minutes and 16 seconds<br>Average Speed: 5.2 mph<br>Minimum Elevation: 0 feet<br>Maximum Elevation: 0 feet<br>Total climb: 0 feet<br>Total descent: 0 feet]]></description>
+        <styleUrl>#line-FFFF8D-5000</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            13.409737,52.51492,0
+            13.406759,52.515239,0
+            13.406043,52.51549,0
+            13.405535,52.515695,0
+            13.405156,52.515991,0
+            13.404587,52.516429,0
+            13.404286,52.516752,0
+            13.403038,52.518056,0
+            13.402573,52.518472,0
+            13.402327,52.518704,0
+            13.401983,52.519066,0
+            13.401702,52.519376,0
+            13.401391,52.519715,0
+            13.401105,52.52004,0
+            13.400886,52.520331,0
+            13.400539,52.520586,0
+            13.400047,52.520923,0
+            13.399566,52.521226,0
+            13.398607,52.521534,0
+            13.397422,52.521815,0
+            13.397038,52.521908,0
+            13.396543,52.522044,0
+            13.39356,52.522336,0
+            13.393402,52.522387,0
+            13.392742,52.522493,0
+            13.391797,52.522534,0
+            13.391054,52.522556,0
+            13.390484,52.522481,0
+            13.389879,52.522451,0
+            13.389219,52.522414,0
+            13.388833,52.522357,0
+            13.388832,52.522357,0
+            13.388416,52.522296,0
+            13.387981,52.522144,0
+            13.387478,52.521867,0
+            13.387102,52.521653,0
+            13.38653,52.52127,0
+            13.385927,52.520941,0
+            13.385629,52.520767,0
+            13.384879,52.520484,0
+            13.38296,52.519961,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>The Moving Camera current position</name>
+        <styleUrl>#icon-123-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            13.38296,52.519961,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

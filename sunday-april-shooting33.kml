@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>sunday-april-shooting33</name>
+    <description/>
+    <Style id="icon-123-normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/123-red-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-123-highlight">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/123-red-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-123">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-123-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-123-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="line-FFEA00-4875-nodesc-normal">
+      <LineStyle>
+        <color>ff00eaff</color>
+        <width>4.875</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="line-FFEA00-4875-nodesc-highlight">
+      <LineStyle>
+        <color>ff00eaff</color>
+        <width>7.3125</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="line-FFEA00-4875-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-FFEA00-4875-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-FFEA00-4875-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="line-FFEA00-5000-normal">
+      <LineStyle>
+        <color>ff00eaff</color>
+        <width>5</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-FFEA00-5000-highlight">
+      <LineStyle>
+        <color>ff00eaff</color>
+        <width>7.5</width>
+      </LineStyle>
+    </Style>
+    <StyleMap id="line-FFEA00-5000">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-FFEA00-5000-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-FFEA00-5000-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="line-FFEA00-5263-nodesc-normal">
+      <LineStyle>
+        <color>ff00eaff</color>
+        <width>5.263</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="line-FFEA00-5263-nodesc-highlight">
+      <LineStyle>
+        <color>ff00eaff</color>
+        <width>7.8945</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="line-FFEA00-5263-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-FFEA00-5263-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-FFEA00-5263-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>storyline_20180415 (2).gpx</name>
+      <Placemark>
+        <name>20180415 - Seg #2 - 45 pts</name>
+        <description><![CDATA[Statistics computed from imported data<br><br>Sunday, April 15, 2018 9:41 AM CEST<br>Distance: 1.6 miles<br>Duration: 20 minutes and 9 seconds<br>Average Speed: 4.6 mph<br>Minimum Elevation: 0 feet<br>Maximum Elevation: 0 feet<br>Total climb: 0 feet<br>Total descent: 0 feet]]></description>
+        <styleUrl>#line-FFEA00-5000</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            13.378928,52.51943,0
+            13.377193,52.520021,0
+            13.376789,52.52033,0
+            13.376515,52.520665,0
+            13.378349,52.519271,0
+            13.378804,52.519178,0
+            13.386363,52.521136,0
+            13.386511,52.521255,0
+            13.38719,52.5217,0
+            13.38752,52.521897,0
+            13.391788,52.522574,0
+            13.391995,52.522572,0
+            13.397635,52.521622,0
+            13.397834,52.521582,0
+            13.398454,52.521414,0
+            13.399054,52.521184,0
+            13.399713,52.520837,0
+            13.400333,52.520463,0
+            13.400661,52.520076,0
+            13.401071,52.519593,0
+            13.403866,52.517138,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>20180415 - Seg #5 - 14 pts</name>
+        <description><![CDATA[Statistics computed from imported data<br><br>Sunday, April 15, 2018 10:52 AM CEST<br>Distance: 0.4 miles<br>Duration: 11 minutes and 20 seconds<br>Average Speed: 1.9 mph<br>Minimum Elevation: 0 feet<br>Maximum Elevation: 0 feet<br>Total climb: 0 feet<br>Total descent: 0 feet]]></description>
+        <styleUrl>#line-FFEA00-5000</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            13.406354,52.515438,0
+            13.409543,52.514907,0
+            13.409663,52.51491,0
+            13.40971,52.514903,0
+            13.409774,52.514899,0
+            13.409807,52.514898,0
+            13.410077,52.514879,0
+            13.410472,52.51484,0
+            13.413264,52.514705,0
+            13.411997,52.514162,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>20180415 - Seg #10 - 54 pts</name>
+        <description><![CDATA[Statistics computed from imported data<br><br>Sunday, April 15, 2018 1:02 PM CEST<br>Distance: 1.5 miles<br>Duration: 19 minutes and 15 seconds<br>Average Speed: 4.5 mph<br>Minimum Elevation: 0 feet<br>Maximum Elevation: 0 feet<br>Total climb: 0 feet<br>Total descent: 0 feet]]></description>
+        <styleUrl>#line-FFEA00-5000</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            13.414987,52.515006,0
+            13.417676,52.514418,0
+            13.41837,52.514235,0
+            13.418761,52.514078,0
+            13.419246,52.513875,0
+            13.419653,52.513619,0
+            13.420427,52.513323,0
+            13.420673,52.513259,0
+            13.421239,52.513091,0
+            13.421719,52.512919,0
+            13.422558,52.512619,0
+            13.423508,52.512271,0
+            13.424334,52.512012,0
+            13.424775,52.51184,0
+            13.425236,52.511618,0
+            13.425439,52.511512,0
+            13.426012,52.511128,0
+            13.426484,52.510737,0
+            13.426842,52.510457,0
+            13.427573,52.509993,0
+            13.428157,52.509682,0
+            13.428616,52.509455,0
+            13.428814,52.509354,0
+            13.429268,52.509204,0
+            13.429713,52.509002,0
+            13.430284,52.508555,0
+            13.430672,52.508299,0
+            13.431212,52.507995,0
+            13.431678,52.507754,0
+            13.432156,52.507518,0
+            13.432866,52.507298,0
+            13.433504,52.506969,0
+            13.433768,52.506881,0
+            13.434215,52.506729,0
+            13.434653,52.506566,0
+            13.435098,52.506451,0
+            13.435507,52.506289,0
+            13.435939,52.506097,0
+            13.436363,52.505881,0
+            13.436757,52.505697,0
+            13.437149,52.505545,0
+            13.437604,52.505096,0
+            13.437845,52.504854,0
+            13.438085,52.504657,0
+            13.438496,52.504359,0
+            13.438858,52.504173,0
+            13.43934,52.504169,0
+            13.439324,52.504509,0
+            13.439106,52.50463,0
+            13.438862,52.504768,0
+            13.4386,52.504905,0
+            13.437943,52.505265,0
+            13.43739,52.505525,0
+            13.436784,52.505856,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <styleUrl>#line-FFEA00-5263-nodesc</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            13.413264,52.514705,0
+            13.414987,52.515006,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <styleUrl>#line-FFEA00-4875-nodesc</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            13.406354,52.515438,0
+            13.4050798,52.5160642,0
+            13.403866,52.517138,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>The Moving Camera current position
+</name>
+        <description><![CDATA[Sunday, April 15, 2018 1:21 PM CEST<br>Elevation: 0 feet]]></description>
+        <styleUrl>#icon-123</styleUrl>
+        <Point>
+          <coordinates>
+            13.436784,52.505856,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

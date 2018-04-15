@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>sunday-april-shooting1</name>
+    <description/>
+    <Style id="icon-123-normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/123-red-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-123-highlight">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/123-red-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-123">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-123-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-123-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="line-FFEA00-5000-normal">
+      <LineStyle>
+        <color>ff00eaff</color>
+        <width>5</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-FFEA00-5000-highlight">
+      <LineStyle>
+        <color>ff00eaff</color>
+        <width>7.5</width>
+      </LineStyle>
+    </Style>
+    <StyleMap id="line-FFEA00-5000">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-FFEA00-5000-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-FFEA00-5000-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>storyline_20180415 (2).gpx</name>
+      <Placemark>
+        <name>The Moving Camera current position
+</name>
+        <description><![CDATA[Sunday, April 15, 2018 10:01 AM CEST<br>Elevation: 0 feet]]></description>
+        <styleUrl>#icon-123</styleUrl>
+        <Point>
+          <coordinates>
+            13.403866,52.517138,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>20180415 - Seg #2 - 45 pts</name>
+        <description><![CDATA[Statistics computed from imported data<br><br>Sunday, April 15, 2018 9:41 AM CEST<br>Distance: 1.6 miles<br>Duration: 20 minutes and 9 seconds<br>Average Speed: 4.6 mph<br>Minimum Elevation: 0 feet<br>Maximum Elevation: 0 feet<br>Total climb: 0 feet<br>Total descent: 0 feet]]></description>
+        <styleUrl>#line-FFEA00-5000</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            13.378928,52.51943,0
+            13.377193,52.520021,0
+            13.376789,52.52033,0
+            13.376515,52.520665,0
+            13.378349,52.519271,0
+            13.378804,52.519178,0
+            13.386363,52.521136,0
+            13.386511,52.521255,0
+            13.38719,52.5217,0
+            13.38752,52.521897,0
+            13.391788,52.522574,0
+            13.391995,52.522572,0
+            13.397635,52.521622,0
+            13.397834,52.521582,0
+            13.398454,52.521414,0
+            13.399054,52.521184,0
+            13.399713,52.520837,0
+            13.400333,52.520463,0
+            13.400661,52.520076,0
+            13.401071,52.519593,0
+            13.403866,52.517138,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

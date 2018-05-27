@@ -39,13 +39,13 @@
     </StyleMap>
     <Style id="line-0288D1-5000-normal">
       <LineStyle>
-        <color>ffd18802</color>
+        <color>ffff00ff</color>
         <width>5</width>
       </LineStyle>
     </Style>
     <Style id="line-0288D1-5000-highlight">
       <LineStyle>
-        <color>ffd18802</color>
+        <color>ffff00ff</color>
         <width>7.5</width>
       </LineStyle>
     </Style>
@@ -61,7 +61,7 @@
     </StyleMap>
     <Style id="line-0288D1-5650-nodesc-normal">
       <LineStyle>
-        <color>ffd18802</color>
+        <color>ffff00ff</color>
         <width>5.65</width>
       </LineStyle>
       <BalloonStyle>
@@ -70,7 +70,7 @@
     </Style>
     <Style id="line-0288D1-5650-nodesc-highlight">
       <LineStyle>
-        <color>ffd18802</color>
+        <color>ffff00ff</color>
         <width>8.475</width>
       </LineStyle>
       <BalloonStyle>
